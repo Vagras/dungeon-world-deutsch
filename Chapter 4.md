@@ -21,7 +21,7 @@ Einige Moves werden begleitet von einer kurzen Erläuterung ihrer Nutzung und ei
 
 ### Hauen und Stechen
 
-Wenn du **einen Gegner im Nahkampf angreifst,** würfle+STÄ.
+**Wenn du einen Gegner im Nahkampf angreifst,** würfle+STÄ.
 ✴ Bei einer 10+ fügst du deinem Gegner Schaden zu und entrinnst seinem Angriff.
 Wenn du willst, kannst du außerdem +1W6 Schaden machen, setzt dich dabei aber dem Angriff deines Gegners aus.
 ✴ Bei einer 7–9 fügst du deinem Gegner Schaden zu und dein Gegner kann einen Angriff gegen dich ausführen.
@@ -38,7 +38,7 @@ Ein Goblin schlägt vielleicht einfach zurück, oder er rammt dir eine vergiftet
 Das Leben als Abenteurer ist nunmal kein Zuckerschlecken.
 
 Beachte, dass ein "Angriff" eine Aktion eines Spielers beinhaltet, die dazu führen kann, dass jemand (oder etwas) anderes Schaden erleidet.
-Ein Schwert gegen einen Drachen zu schwingen, dessen zentimeterdicken Schuppen mit magischer Energie vollgepumpt sind, lässt sich vergleichen mit dem Schwingen eines Fleischerbeils gegen einen Panzer:
+Ein Schwert gegen einen Drachen zu schwingen, dessen zentimeterdicke Schuppen mit magischer Energie vollgepumpt sind, lässt sich vergleichen mit dem Schwingen eines Fleischerbeils gegen einen Panzer:
 Es wird ihm einfach keinen Schaden zufügen, also ist *Hauen und Stechen* hier nicht anwendbar.
 Das kann sich jedoch ändern, wenn die Umstände anders sind:
 Wenn du so positioniert bist, dass du den weichen Bauch des Drachen angreifen kannst (viel Glück beim Dahinkommen!), kannst du ihm wehtun, und das ist dann ein Angriff.

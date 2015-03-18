@@ -47,3 +47,33 @@ Wenn es Sinn macht, dass du mit der Aktion, die den Move ausgelöst hat, mehrere
 
 Manche Angriffe können – abhängig von der auslösenden Aktion, den Umständen oder den eingesetzten Waffen – zusätzliche Effekte haben:
 Ein Angriff könnte jemanden niederschlagen, oder entwaffnen… oder nichts außer einem großen, blutigen Fleck hinterlassen.
+
+**SL:** *Jarl, du steckst bis zum Hals in geifernden Goblins.
+Sie haben dich umzingelt und ihre Messer gezückt.
+Was machst du?*  
+**Jarl:** *Mir reicht’s!
+Ich verdresche den nächstbesten Goblin mit meinem Hammer.*  
+**SL:** *Okay.
+Das ist eine Kampfsituation, also benutzt du *Hauen und Stechen*.
+Würfle+STÄ.*  
+**Jarl:** *Eine 11.
+Die Regeln sagen mir, dass ich eine Wahl treffen muss.
+Furcht ist was für Schwächlinge, also lass diese Goblins nur kommen!*  
+**SL:** *Du lässt deinen Hammer in den nächstbesten Goblin krachen.
+Deine Belohnung ist das befriedigende Geräusch seiner brechenden Knochen – das und eine Messerwunde, die du von seinem Gegenangriff bekommst.
+Er richtet 4 Schadenspunkte bei dir an.
+Was machst du?*
+
+**SL:** *Cadeus, aus den Schatten kannst du diese Ork-Krieger überraschen.*  
+**Cadeus:** *Ich springe hervor lasse mein Schwert in hohem Bogen auf sie herabsausen.
+Etwa so!
+Yaaaah!*  
+**SL:** *Das hatten sie nicht erwartet, du hast sie komplett auf dem falschen Fuß erwischt und versenkst dein Schwert in einem von ihnen.
+Würfle deinen Schaden.*  
+**Cadeus:** *Ich mache 6 Schaden.*  
+**SL:** *Der Ork fällt blutend zu Boden!
+Der zweite stockt kurz, als er dich sieht.
+Dann grinst er dich an, entblößt dabei seine widerlichen Hauer, und löst sein Signalhorn vom Gürtel!
+Was machst du?*
+
+

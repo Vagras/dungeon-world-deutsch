@@ -1,4 +1,4 @@
-# Kapitel 4 — Grundlegende Moves
+== Grundlegende Moves
 
 Dieses Kapitel enthält Moves, die allen Charakteren zur Verfügung stehen.
 Sie lassen sich in zwei Kategorien unterteilen: Grundlegende und spezielle.
@@ -15,21 +15,18 @@ Zusätzlich hat jeder Spielercharakter Moves, die ihm von seiner Klasse zur Verf
 Wir werden jeden Move zuerst beim Namen nennen, danach folgt eine Beschreibung seiner Regeln.
 Einige Moves werden begleitet von einer kurzen Erläuterung ihrer Nutzung und einem Spielbeispiel.
 
-## Grundlegende Moves
+=== Grundlegende Moves
 
----
-
-### Hauen und Stechen
-
-**Wenn du einen Gegner im Nahkampf angreifst,** würfle+STÄ.
+.Hauen und Stechen
+****
+*Wenn du einen Gegner im Nahkampf angreifst,* würfle+STÄ.
 ✴ Bei einer 10+ fügst du deinem Gegner Schaden zu und entrinnst seinem Angriff.
 Wenn du willst, kannst du außerdem +1W6 Schaden machen, setzt dich dabei aber dem Angriff deines Gegners aus.
 ✴ Bei einer 7–9 fügst du deinem Gegner Schaden zu und dein Gegner kann einen Angriff gegen dich ausführen.
+****
 
----
-
-*Hauen und Stechen* ist dazu da, einen wehrhaften Feind anzugreifen – schlicht und einfach.
-Wenn dein Gegner sich nicht wehren kann – weil er nicht weiß, dass du da bist, oder weil er gefesselt und hilflos ist –, dann ist das kein *Hauen und Stechen*.
+_Hauen und Stechen_ ist dazu da, einen wehrhaften Feind anzugreifen – schlicht und einfach.
+Wenn dein Gegner sich nicht wehren kann – weil er nicht weiß, dass du da bist, oder weil er gefesselt und hilflos ist –, dann ist das kein _Hauen und Stechen_.
 Du machst einfach deinen Schaden oder tötest ihn sofort, je nachdem, was die Situation gerade hergibt.
 Böse Sache.
 
@@ -39,7 +36,7 @@ Das Leben als Abenteurer ist nunmal kein Zuckerschlecken.
 
 Beachte, dass ein "Angriff" eine Aktion eines Spielers beinhaltet, die dazu führen kann, dass jemand (oder etwas) anderes Schaden erleidet.
 Ein Schwert gegen einen Drachen zu schwingen, dessen zentimeterdicke Schuppen mit magischer Energie vollgepumpt sind, lässt sich vergleichen mit dem Schwingen eines Fleischerbeils gegen einen Panzer:
-Es wird ihm einfach keinen Schaden zufügen, also ist *Hauen und Stechen* hier nicht anwendbar.
+Es wird ihm einfach keinen Schaden zufügen, also ist _Hauen und Stechen_ hier nicht anwendbar.
 Das kann sich jedoch ändern, wenn die Umstände anders sind:
 Wenn du so positioniert bist, dass du den weichen Bauch des Drachen angreifen kannst (viel Glück beim Dahinkommen!), kannst du ihm wehtun, und das ist dann ein Angriff.
 
@@ -48,32 +45,41 @@ Wenn es Sinn macht, dass du mit der Aktion, die den Move ausgelöst hat, mehrere
 Manche Angriffe können – abhängig von der auslösenden Aktion, den Umständen oder den eingesetzten Waffen – zusätzliche Effekte haben:
 Ein Angriff könnte jemanden niederschlagen, oder entwaffnen… oder nichts außer einem großen, blutigen Fleck hinterlassen.
 
-**SL:** *Jarl, du steckst bis zum Hals in geifernden Goblins.
+____
+SL: Jarl, du steckst bis zum Hals in geifernden Goblins.
 Sie haben dich umzingelt und ihre Messer gezückt.
-Was machst du?*  
-**Jarl:** *Mir reicht’s!
-Ich verdresche den nächstbesten Goblin mit meinem Hammer.*  
-**SL:** *Okay.
-Das ist eine Kampfsituation, also benutzt du *Hauen und Stechen*.
-Würfle+STÄ.*  
-**Jarl:** *Eine 11.
+Was machst du?
+
+Jarl: Mir reicht’s!
+Ich verdresche den nächstbesten Goblin mit meinem Hammer.
+
+SL: Okay.
+Das ist eine Kampfsituation, also benutzt du Hauen und Stechen.
+Würfle+STÄ.
+
+Jarl: Eine 11.
 Die Regeln sagen mir, dass ich eine Wahl treffen muss.
-Furcht ist was für Schwächlinge, also lass diese Goblins nur kommen!*  
-**SL:** *Du lässt deinen Hammer in den nächstbesten Goblin krachen.
+Furcht ist was für Schwächlinge, also lass diese Goblins nur kommen!
+
+SL: Du lässt deinen Hammer in den nächstbesten Goblin krachen.
 Deine Belohnung ist das befriedigende Geräusch seiner brechenden Knochen – das und eine Messerwunde, die du von seinem Gegenangriff bekommst.
 Er richtet 4 Schadenspunkte bei dir an.
-Was machst du?*
+Was machst du?
+____
 
-**SL:** *Cadeus, aus den Schatten kannst du diese Ork-Krieger überraschen.*  
-**Cadeus:** *Ich springe hervor lasse mein Schwert in hohem Bogen auf sie herabsausen.
+____
+SL: Cadeus, aus den Schatten kannst du diese Ork-Krieger überraschen.
+Cadeus: Ich springe hervor lasse mein Schwert in hohem Bogen auf sie herabsausen.
 Etwa so!
-Yaaaah!*  
-**SL:** *Das hatten sie nicht erwartet, du hast sie komplett auf dem falschen Fuß erwischt und versenkst dein Schwert in einem von ihnen.
-Würfle deinen Schaden.*  
-**Cadeus:** *Ich mache 6 Schaden.*  
-**SL:** *Der Ork fällt blutend zu Boden!
+Yaaaah!
+
+SL: Das hatten sie nicht erwartet, du hast sie komplett auf dem falschen Fuß erwischt und versenkst dein Schwert in einem von ihnen.
+Würfle deinen Schaden.
+
+Cadeus: Ich mache 6 Schaden.
+
+SL: Der Ork fällt blutend zu Boden!
 Der zweite stockt kurz, als er dich sieht.
 Dann grinst er dich an, entblößt dabei seine widerlichen Hauer, und löst sein Signalhorn vom Gürtel!
-Was machst du?*
-
-
+Was machst du?
+____

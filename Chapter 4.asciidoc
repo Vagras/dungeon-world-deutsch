@@ -1,3 +1,4 @@
+
 == Grundlegende Moves
 
 Dieses Kapitel enthält Moves, die allen Charakteren zur Verfügung stehen.
@@ -83,3 +84,34 @@ Der zweite stockt kurz, als er dich sieht.
 Dann grinst er dich an, entblößt dabei seine widerlichen Hauer, und löst sein Signalhorn vom Gürtel!
 Was machst du?
 ____
+
+____
+SL: Bartleby, du hast Finbar den Prächtigen, mächtigsten Duellanten des Landes, komplett entwaffnet und legst deine Klinge an seinem Hals.
+
+Bartleby: Du wirst mich nicht noch einmal hintergehen, Finbar! Ich durchbohre ihn mit dem Schwert.
+
+SL: Na gut, das ist dann Hauen und Stechen. Würfle+STÄ.
+
+Bartleby: Na gut, wenn du das sagst… Ich habe eine 7.
+
+SL: Okay, du durchbohrst ihn, weil er komplett wehrlos ist und… ähm, warte.
+Weißt du was, er befindet sich gar nicht im Nahkampf mit dir.
+Er ist hilflos, vergiss Hauen und Stechen, er ist erledigt.
+Er sackt Blut spuckend zu Boden, aber der Alarm der Wache dringt in deine Ohren.
+Was machst du?
+____
+
+.Salve
+****
+*Wenn du zielst und im Fernkampf auf einen Gegner schießt,* würfle+GES.
+✴ Bei einer 10+ hast du ein freies Schussfeld – mache deinen Schaden.
+✴ Bei einer 7–9, wähle eins (egal, was du wählst, du richtest deinen Schaden an):
+
+* Du musst dich bewegen, um deinen Schuss anbringen zu können, und begibst dich dadurch in Gefahr (vom SL vorgegeben)
+* Du musst nehmen, was du kriegen kannst: -1W6 Schaden
+* Du musst mehrere Salven abfeuern: Reduziere deine Munition um 1
+****
+
+Eine _Salve_ beinhaltet den gesamten Akt des Spannens, Zielens und Feuerns einer Fernkampfwaffe, oder das Werfen einer Wurfwaffe.
+Der Vorteil gegenüber dem Nahkampf besteht darin, dass der Angegriffene weniger Chancen hat, zurückzuschlagen.
+Im Gegenzug muss ein Fernkämpfer auf seine Munition und ein freies Schussfeld achten.

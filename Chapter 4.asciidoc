@@ -115,3 +115,50 @@ ____
 Eine _Salve_ beinhaltet den gesamten Akt des Spannens, Zielens und Feuerns einer Fernkampfwaffe, oder das Werfen einer Wurfwaffe.
 Der Vorteil gegenüber dem Nahkampf besteht darin, dass der Angegriffene weniger Chancen hat, zurückzuschlagen.
 Im Gegenzug muss ein Fernkämpfer auf seine Munition und ein freies Schussfeld achten.
+
+Lege "Gefahr" großzügig aus, wenn jemand eine 7–9 würfelt.
+Er könnte mit schlechtem Untergrund zu kämpfen haben oder am spitzen Ende einer Schwertklinge enden oder veilleicht auch nur gezwungen sein, den strategisch günstigen Glockenturm an den Feind aufzugeben.
+Was auch immer die "Gefahr" ist, sie kommt näher und führt immer dazu, dass der SL die berühmte Frage stellt: "Was machst du?"
+Oft wird dich die Situation dazu zwingen, dich voll und ganz auf ihre Abwendung zu konzentrieren oder der _Gefahr zu trotzen_.
+
+Falls du etwas wirfst, das keine Munitionsanzeige hat (vielleicht hast du einen Move, der dir erlaubt, deinen Schild zu werfen), kannst du dir bei einer 7–9 nicht aussuchen, Munition abzustreichen.
+Wähle stattdessen eine der beiden anderen Optionen.
+
+____
+Aranwe: Okay, ich sitze hier also fest auf dem Boden des Ritualariums, während der orkische Augenfresser oben auf dem Altar seinen Ritualgesang skandiert.
+Da Thelian ja den Rest der Bande in Schach hält, lege ich meinen Bogen an, spanne und lasse einen Pfeil auf den singenden Ork los.
+
+SL: Eine ausgezeichnete Wahl – klingt wie eine _Salve_ für mich.
+
+Aranwe: Mist, eine 8.
+Nun ja, ich hab kaum noch Pfeile und noch weniger Trefferpunkte.
+Ich sollte nehmen, was ich kriegen kann.
+Ich würfle meinen Schaden, dann ziehe vom Ergebnis 1W6 ab, richtig?
+Ich habe eine 3.
+Ist das wenigstens genug, um ihn abzulenken?
+
+SL: Sicher! Der Pfeil gräbt sich ins Bein des Augenfressers und er brüllt vor Schmerzen, was das Ritual jäh unterbricht.
+Unglücklicherweise scheint es, als hätte die Unterbrechung das Ganze nur schlimmer gemacht – ein fürchterliches Grollen hallt aus der Grube unter dem Altar und das Gebälk des Raums fängt an zu bröckeln.
+Was machst du?
+____
+____
+Halek: Kobolde und ein Oger?
+Oh mann, was ist hier nur los?
+Na gut, wenn sie auf mich aus sind, kann ich genauso gut meinen Bogen Hallo sagen lassen.
+Ich jage einen Pfeil in den Mob und würfle… eine 8.
+
+SL: Okay, was darf's sein? Gefahr? Munition?
+
+Halek: Ich wähle… die Gefahr.
+
+SL: Gut.
+Die Kobolde umzingeln dich, aber dir gelingt es, einem von ihnen einen Schuss zu versetzen.
+Er fällt, aber in dem Moment, als der Rest über dich kommt, fällt dir siedendheiß auf, dass du den Oger aus den Augen verloren hast.
+Er schmettert seine Keule in deine Seite und du nimmst 12 Schaden!
+
+Halek: 12 Schaden? Das ist die Gefahr?
+
+SL: Du hast recht, das ist nicht wirklich eine Gefahr.
+Okay, du bist noch kein Brei – der Oger baut sich drohend hinter dir auf und seine Keule saust auf deinen Schädel herab!
+Was machst du?
+____

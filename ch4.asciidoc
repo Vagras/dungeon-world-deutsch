@@ -162,3 +162,20 @@ SL: Du hast recht, das ist nicht wirklich eine Gefahr.
 Okay, du bist noch kein Brei – der Oger baut sich drohend hinter dir auf und seine Keule saust auf deinen Schädel herab!
 Was machst du?
 ____
+
+.Gefahr trotzen
+****
+*Wenn du trotz einer unmittelbaren Gefahr handelst oder ein drohendes Unheil hinnehmen musst*, beschreibe, wie du damit umgehst, und würfle.
+Wenn du der Gefahr entgehst, indem du…
+
+* dich durchschlägst, würfle+STÄ
+* ihr aus dem Weg gehst oder durch Schnelligkeit entrinnst, würfle+GES
+* sie zähneknirschend hinnimmst, würfle+KON
+* geistesgegenwärtig handelst, würfle+INT
+* schiere Willenskraft aufbietest, würfle+WEI
+* deine Ausstrahlung zu deinem Vorteil nutzt, würfle+CHA
+
+✴ Bei einer 10+ gelingt dein Vorhaben, und die Bedrohung verhallt unerfüllt.
+✴ Bei einer 7–9 stolperst, zögerst oder taumelst du:
+Der SL wird dir einen ungünstigeren Ausgang oder einen teuren Handel anbieten, oder dich vor die Wahl zwischen zwei Übeln stellen.
+****

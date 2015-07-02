@@ -179,3 +179,60 @@ Wenn du der Gefahr entgehst, indem du…
 ✴ Bei einer 7–9 stolperst, zögerst oder taumelst du:
 Der SL wird dir einen ungünstigeren Ausgang oder einen teuren Handel anbieten, oder dich vor die Wahl zwischen zwei Übeln stellen.
 ****
+
+Das verwendete Attribut wird von der Art und Weise festgelegt, mit der du der Gefahr begegnest.
+Deine Aktion muss dabei den Move auslösen.
+Das bedeutet, dass du der Gefahr eines abschüssigen, vereisten Bodens nicht einfach trotzen kannst, indem du ein gewinnendes Lächeln aufsetzt, nur weil CHA dein bester Wert ist:
+Den Boden charmant anzulächeln hat keine Wirkung.
+Stattdessen könntest du mit STÄ einen gewaltigen Satz über die vereiste Stelle machen, mit GES vorsichtig hinüberbalancieren, und so weiter.
+Indem du den Move vollführst, bekommst du das Ergebnis.
+
+____
+SL: Emory, während du die Seite der Schlucht erklimmst, erblickst du einen Kultisten auf einem nahen Vorsprung.
+Er beschwört einen Frostzauber und bedeckt die gesamte Wand mit Eis!
+Wenn du deine Kletterpartie fortsetzen willst, musst du der _Gefahr trotzen_ oder du riskierst, zu fallen.
+
+Emory: Auf keinen Fall, dazu bin ich viel zu abgebrüht.
+Ich beiße die Zähne zusammen und kralle meine Finger in die Wand, immer eine Hand nach der anderen.
+Ich benutze KON, okay?
+Ich habe aber leider eine 8 gewürfelt…
+
+SL: Hmm, na gut, du harter Kerl.
+Du wirst nur nach ganz oben kommen können, indem du deinen Dolch benutzt, um dich die letzten Meter hinaufzuziehen.
+Er wird dort in der Wand stecken bleiben, bis du Zeit hast, ihn herauszuziehen – und im Moment will dir ein wütender Zauberwirker an den Kragen.
+
+Emory: Ich kann mir ja einen neuen Dolch holen, wenn ich wieder nach Hause komme.
+Zeit, die Kletterpartie abzuschließen und diesem Kultisten den Garaus zu machen.
+____
+____
+SL: Der Athach schwingt seinen muskelbewehrten dritten Arm gegen dich, die knorrigen Finger fest um einen dicken Ast geschlossen.
+Was machst du, Valeria?
+
+Valeria: Er will also kämpfen, wie?
+Dann mal los.
+Ich _haue und steche_, indem ich mein Schwert gegen seine Beine schwinge.
+
+SL: Moment mal, Partner.
+Er hat dich schon auf dem falschen Fuß erwischt.
+Du kannst dich zwar ins Getümmel stürzen, aber er wird dir den Schädel einschlagen, solange du dieser _Gefahr_ nicht _trotzt_.
+
+Valeria: Pff, der Kerl ist Valeria der Roten doch nicht gewachsen!
+Ich springe zur Seite wie ein Blatt im Wind und _haue und steche_ dann.
+
+SL: _Trotze_ der _Gefahr_ mit GES, bitte und danke.
+____
+____
+Octavia: Ich habe genug von diesem Oger!
+Ich lasse meinen Schild fallen und schwinge meinen Hammer mit beiden Händen.
+Das ist _Hauen und Stechen_, nicht wahr?
+
+SL: Du lässt deinen Schild fallen?
+Das ist kein guter Einfall – jetzt musst du _Gefahr trotzen_, oder der Oger wird dich treffen.
+
+Octavia: Bist du sicher?
+Ist das nicht genau die Situation, die von _Hauen und Stechen_ abgedeckt wird – Schlagabtausche und so?
+
+SL: Oh, ja, natürlich.
+Ich glaube, ich brauche noch einen Kaffee.
+_Hauen und Stechen_ dann bitte, mach deinen Zug!
+____

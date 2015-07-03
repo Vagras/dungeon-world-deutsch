@@ -180,6 +180,23 @@ Wenn du der Gefahr entgehst, indem du…
 Der SL wird dir einen ungünstigeren Ausgang oder einen teuren Handel anbieten, oder dich vor die Wahl zwischen zwei Übeln stellen.
 ****
 
+Du _trotzt Gefahr_, wenn du etwas im Angesicht drohenden Unheils machst.
+Das mag klingen wie ein viel zu vager Sammelbegriff, aber genau das ist die Absicht dahinter!
+_Gefahr trotzen_ ist dann angebracht, wenn man das Gefühl hat, jetzt würfeln zu müssen, sich aber kein anderer Move anbietet.
+
+_Gefahr trotzen_ wird auch verwendet, wenn man einen anderen Move macht und dabei Schwierigkeiten begegnet, die durch ihn nicht abgedeckt sind.
+Zum Beispiel unterstellt der Move _Hauen und Stechen_ einen Schlagabtausch im Nahkampf:
+Du musst nicht jedes mal _Gefahr trotzen_, wenn du dem Angriff des Monsters ausweichen willst; es sei denn, es ist eine Gefahr im Spiel, die nicht direkt etwas mit dem Angriff des Monsters zu tun hat.
+Wenn du andererseits zu _hauen und stechen_ versuchst, während scharfkantige Speere aus Löchern in der Wand schießen, dann sind diese Speere sehr wohl eine _Gefahr_, der _getrotzt_ werden muss.
+
+Eine "Gefahr" ist dabei alles, was Widerstandsfähigkeit, Konzentration oder Gleichgewichtssinn erfordert.
+Dieser Move wird üblicherweise vom SL gefordert.
+Er wird dir sagen, was in dieser Situation die konkrete Gefahr ist, der du gegenüberstehst.
+In etwa so:
+"Du wirst erstmal _Gefahr trotzen_ müssen.
+Die Gefahr ist der steile, vereiste Boden, über den du rennen willst.
+Wenn du es schaffst, auf den Füßen zu bleiben, schaffst du es auch, die Tür zu erreichen, bevor der Nekromant es schafft, seine Magie auf dich loszulassen."
+
 Das verwendete Attribut wird von der Art und Weise festgelegt, mit der du der Gefahr begegnest.
 Deine Aktion muss dabei den Move auslösen.
 Das bedeutet, dass du der Gefahr eines abschüssigen, vereisten Bodens nicht einfach trotzen kannst, indem du ein gewinnendes Lächeln aufsetzt, nur weil CHA dein bester Wert ist:

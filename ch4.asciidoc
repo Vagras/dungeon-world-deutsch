@@ -253,3 +253,86 @@ SL: Oh, ja, natürlich.
 Ich glaube, ich brauche noch einen Kaffee.
 _Hauen und Stechen_ dann bitte, mach deinen Zug!
 ____
+
+.Verteidigen
+****
+*Wenn du eine Person, einen Gegenstand oder einen Ort vor Angriffen bewahren willst,* würfle+KON.
+✴ Bei einer 10+ erhältst du 3 Reserve.
+✴ Bei einer 7–9 erhältst du 1 Reserve.
+Solange du verteidigst, kannst du Reserve 1 zu 1 ausgeben und von folgender Liste wählen:
+
+* Lenke einen Angriff von deinem Schutzbefohlenen auf dich um.
+* Halbiere den Schaden oder den Effekt des Angriffs.
+* Reiße eine Lücke in die Verteidigung deines Angreifers und gib einem Verbündeten +1 vorwärts gegen ihn.
+* Füge deinem Angreifer soviel Schaden zu, wie du Stufen hast.
+****
+
+Etwas zu verteidigen bedeutet, dass du in der Nähe bleibst und dich darauf konzentrierst, Angriffe auf dein Ziel zu vermeiden oder zu verhindern, dass jemand ihm zu nahe kommt.
+Wenn du dich nicht mehr in der Nähe befindest oder deine Aufmerksamkeit etwas anderem zuwendest, verlierst du deine Reserve.
+
+Du kannst nur dann Reserve ausgeben, wenn jemand dich oder dein zu schützendes Ziel angreift.
+Die Möglichkeiten, die dir dann zur Wahl stehen, hängen vom Angreifer und der Art des Angriffs ab:
+Insbesondere kannst du deinem Angreifer keinen Schaden zufügen, wenn er außerhalb der Reichweite deiner Waffe ist.
+
+Ein Angriff ist jede Aktion, in die du eingreifen kannst und die einen schädlichen Effekt hat.
+Schwertschläge und Pfeilsalven sind natürlich Angriffe, aber auch Zaubersprüche, Haltegriffe oder Anstürme.
+
+Bei einem Angriff, der keinen direkten Schaden verursacht, bedeutet "den Effekt halbieren", dass der Angreifer zum Teil das erreicht, was er will – aber eben nur zum Teil.
+Was das letztendlich bedeutet, musst du zusammen mit deinem SL ausmachen.
+Wenn du das Edelsteinauge von Oro-Uht verteidigst und ein Ork versucht, es von seinem Sockel zu schnappen, dann könnte ein "halbierter Effekt" bedeuten, dass das Auge von seinem Sockel gestoßen wird und davonrollt, ohne dass der Ork es in die Hände bekommt.
+Oder der Ork bekommt es in die Hände, du allerdings auch:
+jetzt kämpft ihr beide darum, bitterlich und mit Händen und Füßen.
+Wenn du und der SL euch nicht auf einen halbierten Effekt einigen könnt, kannst du diese Option nicht aus der Liste wählen.
+
+Dich selbst zu verteidigen ist natürlich ebenfalls möglich.
+Esläuft darauf hinaus, dass du deinen Angriff aufgibst und einfach nur versuchst, dich selbst am Leben zu halten.
+
+____
+SL: Avon, während zu deinem Zauberspruch anhebst, mit dem du den Geist des Nekromanten zurück durch das Portal drängen willst, stürzen sich die Zombies auf dich.
+
+Lux: Hab keine Furcht, kleiner Avon, ich werde dich retten.
+Während Avon seinen Zauber spricht, schwöre ich, ihn zu beschützen – ich schlage meinen Hammer gegen meinen Schild und rufe "Wenn ihr ihn aufhalten wollt, müsst ihr erst einmal an mir vorbei!"
+Ich möchte Avon verteidigen.
+
+SL: Und mit Gusto, wie ich sehe!
+Würfle+KON.
+
+Lux: Ich habe eine 11 gewürfelt.
+3 Reserve, stimmt's?
+
+Avon: Mach dich schon mal bereit, die auch zu nutzen.
+Ich habe eine 8 beim Zaubern gewürfelt – und ich würde mich gern in Gefahr begeben.
+
+SL: Natürlich willst du das.
+Die Zombies werden von den magischen Energien angezogen und taumeln zum Angriff in deine Richtung.
+Plötzlich bist du von ihnen umringt, sie sind überall!
+Was machst du?
+
+Avon: Hilflos quieken?
+
+Lux: Bin ja schon da.
+Ich gebe einen Punkt Reserve aus, um den Angriff auf mich umzulenken:
+Ich schubse Avon zur Seite und lasse die ganze Wut meiner Gottheit in Wellen über die Untoten hereinbrechen, was sie nur noch mehr erzürnt.
+Um auf der sicheren Seite zu sein, schwinge ich meinen Hammer im Halbkreis und richte meinen Schaden an.
+Wenn ich schonmal dabei bin, kann ich auch den letzten Punkt ausgeben und den Schaden auf mich halbieren.
+Mein Gott wacht über uns!
+____
+____
+SL: Also, Hadrian, du hast Durga _verteidigt_, während sie Willem geheilt hat, aber Willem geht es jetzt besser.
+Was machst du?
+
+Durga: Ich stürze mich auf die Troglodyten, um sie zurückzutreiben!
+
+Hadrian: Ich will mich mit diesem Krokodilmenschen anlegen.
+
+SL: Okay, Durga, die Trogs stürzen dir entgegen mit ihren Keulen.
+
+Hadrian: Auf keinen Fall, ich habe noch Reserve übrig – die will ich benutzen, um den Angriff auf mich umzuleiten.
+
+SL: Ihr zwei seid jetzt zu weit auseinander.
+Wie willst du das anstellen, wenn du 20 Meter von ihr entfernt bist?
+Du hast deine Reserve verloren, als du den Krokodilmenschen angegriffen hast, mein Freund.
+
+Hadrian: Na gut, ich schätze, ich stehe ihr nicht mehr "zur Seite".
+Vergiss es, Durga, du bist auf dich allein gestellt!
+____

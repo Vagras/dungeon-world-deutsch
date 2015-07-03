@@ -215,10 +215,10 @@ Ich benutze KON, okay?
 Ich habe aber leider eine 8 gewürfelt…
 
 SL: Hmm, na gut, du harter Kerl.
-Du wirst nur nach ganz oben kommen können, indem du deinen Dolch benutzt, um dich die letzten Meter hinaufzuziehen.
-Er wird dort in der Wand stecken bleiben, bis du Zeit hast, ihn herauszuziehen – und im Moment will dir ein wütender Zauberwirker an den Kragen.
+Du wirst nur ganz nach oben kommen, wenn du deinen Dolch benutzt, um dich die letzten paar Meter hinaufzuziehen.
+Der Dolch wird dort in der Wand stecken bleiben, bis du Zeit hast, ihn herauszuziehen – und im Moment will dir ein wütender Zauberwirker an den Kragen.
 
-Emory: Ich kann mir ja einen neuen Dolch holen, wenn ich wieder nach Hause komme.
+Emory: Ich kann mir ja einen neuen Dolch holen, wenn ich wieder zu Hause bin.
 Zeit, die Kletterpartie abzuschließen und diesem Kultisten den Garaus zu machen.
 ____
 ____
@@ -229,7 +229,7 @@ Valeria: Er will also kämpfen, wie?
 Dann mal los.
 Ich _haue und steche_, indem ich mein Schwert gegen seine Beine schwinge.
 
-SL: Moment mal, Partner.
+SL: Moment mal, Freundchen.
 Er hat dich schon auf dem falschen Fuß erwischt.
 Du kannst dich zwar ins Getümmel stürzen, aber er wird dir den Schädel einschlagen, solange du dieser _Gefahr_ nicht _trotzt_.
 
@@ -259,9 +259,9 @@ ____
 *Wenn du eine Person, einen Gegenstand oder einen Ort vor Angriffen bewahren willst,* würfle+KON.
 ✴ Bei einer 10+ erhältst du 3 Reserve.
 ✴ Bei einer 7–9 erhältst du 1 Reserve.
-Solange du verteidigst, kannst du Reserve 1 zu 1 ausgeben und von folgender Liste wählen:
+Solange du verteidigst, kannst du, wenn du oder dein Ziel angegriffen werden, Reserve 1 zu 1 ausgeben und von folgender Liste wählen:
 
-* Lenke einen Angriff von deinem Schutzbefohlenen auf dich um.
+* Lenke einen Angriff von deinem Ziel auf dich um.
 * Halbiere den Schaden oder den Effekt des Angriffs.
 * Reiße eine Lücke in die Verteidigung deines Angreifers und gib einem Verbündeten +1 vorwärts gegen ihn.
 * Füge deinem Angreifer soviel Schaden zu, wie du Stufen hast.
@@ -349,6 +349,5 @@ Sag ihm die Wahrheit, und zwar jetzt.
 Du _verkündest_ dein _Wissen_ immer dann, wenn du in deinem Gedächtnis nach Wissen oder Fakten über etwas kramst.
 Du könntest dir zum Beispiel einen Moment Zeit nehmen, um darüber nachzudenken, was du über die Orkischen Stämme oder die Türme von Ul'dammar weißt, und enthüllst dann dieses Wissen.
 
-Die dabei erhaltenen Informationen sind der Art, wie du sie auch in einer Bibliothek, einem Reiseführer oder einem Bestiarium finden würdest:
-Du bekommst Fakten über dein Thema genannt.
-Bei einer 10+ zeigt dir der SL, wie dieses Wissen unmittelbar nützlich für dich sein kann; bei einer 7–9 ist es nur Wissen ohne direkten Nutzen oder ohne einen Bezug zur momentanen Situation.
+Die dabei erhaltenen Informationen sind der Art, wie du sie auch in einer Bibliothek, einem Reiseführer oder einem Bestiarium finden würdest.
+Bei einer 10+ zeigt dir der SL, wie dieses Wissen unmittelbar nützlich für dich sein kann; bei einer 7–9 ist es Wissen ohne direkten Nutzen oder ohne einen Bezug zur momentanen Situation.

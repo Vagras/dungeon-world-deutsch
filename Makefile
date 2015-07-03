@@ -11,4 +11,4 @@ all: $(RENDERED)
 clean:
 	rm -rf $(TARGET)/*
 
-.PHONY: clean
+.PHONY: all qclean

@@ -1,0 +1,33 @@
+= Übersetzungen
+
+== Konzepte
+
+Move: Zug, Aktion. Aber: beide klingen wie etwas, was man bewusst macht, bzw. auf das man es bewusst anlegt. Dabei sollen die Moves doch aus der Fiktion getriggert werden. Aber hat "Move" im Englischen nicht eigentlich die gleiche Konnotation?
+
+Was sowohl in "Move" als auch in "Zug", nicht aber in "Aktion" mitschwingt, ist die Idee eines Algorithmus, also einer vorher festgelegten Abfolge von Tätigkeiten, die nur in bestimmten Situationen von Vorteil sein können (siehe Beat-em-Ups, Schach oder Civilization). Von daher ist "Zug" vielleicht gar keine schlechte Übersetzung.
+
+1 hold: 1 Reserve. Hat sich bisher ganz gut bei _Verteidigen_ gemacht. Eine Möglichkeit wäre, die Übersetzung von "hold" für jeden Move einzeln anzupassen.
+
++1 forward: +1 vorwärts
++1 ongoing:
+
+== Moves
+
+Spout Lore: Wissen verkünden, klugscheißen
+Discern Realities: Tatsachen aufdecken, Fakten aufdecken,
+Parley: Schachern, Verhandeln
+Aid or Interfere: Helfen oder Hindern
+Last Breath: Letzter Odem, Letzter Atemzug, Mit letzter Kraft
+Encumbrance: Belastung
+Make Camp: Rast machen, das Lager aufschlagen, Rasten
+Take Watch: Die Wache stellen, Wache halten
+Undertake a Perilous Journey: Eine gefährliche Reise unternehmen
+End of Session: Sitzungsende, die Sitzung beenden
+Level Up: Stufe aufsteigen
+Carouse: Zechen, ein Gelage feiern/halten
+Supply: Besorgungen machen
+Recover: Sich erholen, zu Kräften kommen
+Recruit: Rekrutieren, Hilfe anwerben
+Outstanding Warrant: Ausstehender Haftbefehl, ausstehender Steckbrief (aber: "warrant" im Englischen ist vielseitiger und scheint sich auf Sachen beziehen zu können, die nicht unbedingt mit dem Gesetz im Einklang sind – Kopfgelder zum Beispiel)
+Bolster: Sich wappnen, sich vorbereiten, seine Hausaufgaben machen
+

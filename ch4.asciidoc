@@ -336,3 +336,19 @@ Du hast deine Reserve verloren, als du den Krokodilmenschen angegriffen hast, me
 Hadrian: Na gut, ich schätze, ich stehe ihr nicht mehr "zur Seite".
 Vergiss es, Durga, du bist auf dich allein gestellt!
 ____
+
+.Wissen verkünden
+****
+*Wenn du dein angesammeltes Wissen über etwas konsultierst*, würfle+INT.
+✴ Bei einer 10+ wird dir der SL etwas Interessantes und Nützliches über das Objekt deiner Neugier erzählen, das für deine momentane Situation von Belang ist.
+✴ Bei einer 7–9 wird er dir nur etwas Interessantes darüber erzählen – es liegt an dir, die Information zu deinem Vorteil zu nutzen.
+Der SL könnte dich fragen "Woher weißt du das?"
+Sag ihm die Wahrheit, und zwar jetzt.
+****
+
+Du _verkündest_ dein _Wissen_ immer dann, wenn du in deinem Gedächtnis nach Wissen oder Fakten über etwas kramst.
+Du könntest dir zum Beispiel einen Moment Zeit nehmen, um darüber nachzudenken, was du über die Orkischen Stämme oder die Türme von Ul'dammar weißt, und enthüllst dann dieses Wissen.
+
+Die dabei erhaltenen Informationen sind der Art, wie du sie auch in einer Bibliothek, einem Reiseführer oder einem Bestiarium finden würdest:
+Du bekommst Fakten über dein Thema genannt.
+Bei einer 10+ zeigt dir der SL, wie dieses Wissen unmittelbar nützlich für dich sein kann; bei einer 7–9 ist es nur Wissen ohne direkten Nutzen oder ohne einen Bezug zur momentanen Situation.

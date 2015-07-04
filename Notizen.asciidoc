@@ -31,3 +31,6 @@ Recruit: Rekrutieren, Hilfe anwerben
 Outstanding Warrant: Ausstehender Haftbefehl, ausstehender Steckbrief (aber: "warrant" im Englischen ist vielseitiger und scheint sich auf Sachen beziehen zu können, die nicht unbedingt mit dem Gesetz im Einklang sind – Kopfgelder zum Beispiel)
 Bolster: Sich wappnen, sich vorbereiten, seine Hausaufgaben machen
 
+=== SL-Moves
+
+Reveal an unwelcome Truth: Eine unangenehme Wahrheit enthüllen

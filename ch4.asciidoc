@@ -469,3 +469,81 @@ Die einzige Möglichkeit, die dir einfällt, wie die Mauer so aus der Form gerat
 
 Omar: Also haben die Goblins sie entweder von der anderen Seite verschlossen, oder da drin ist etwas, was versucht hat, zu fliehen.
 ____
+
+.Schachern
+****
+*Wenn du ein Druckmittel gegen jemanden in der Hand hast und ihn damit manipulierst,* würfle+CHA.
+Ein Druckmittel ist etwas, das derjenige benötigt oder haben will.
+✴ Bei einer 10+ tut er, was du sagst, solange du ihm im Gegenzug etwas versprichst.
+✴ Bei einer 7–9 wird er tun, was du sagst – aber nur dann, wenn du ihm hier und jetzt einen konkreten Beweis für dein Versprechen gibst.
+****
+
+_Schachern_ umfasst viele Situationen, darunter alte Bekannte wie Einschüchtern oder Diplomatie.
+Du weißt, dass du Schachern benutzt, wenn du jemanden mit Hilfe eines Versprechens oder einer Drohung dazu bewegen willst, etwas Bestimmtes zu tun.
+Dein Druckmittel kann dabei nett oder nicht so nett gemeint sein; der Umgangston spielt keine Rolle.
+
+Wenn du jemanden lieb fragst, ist das noch kein _Schachern_, sondern einfach eine Unterhaltung.
+Du fragst, "Kann ich dieses magische Schwert haben?" und Sir Telric antwortet, "Um Gottes Willen, das ist ein Erbstück, mein Vater hat es geschmiedet und meine Mutter es verzaubert!" und das war's.
+Um mit jemandem zu schachern, musst du etwas gegen ihn in der Hand haben –
+etwas, was für deinen Gegenspieler so verlockend ist, dass er im Gegenzug etwas für dich tun will.
+Das könnte etwas sein, was er unbedingt in seinen Besitz bringen will oder etwas, von dem er unbedingt vermeiden will, dass du es tust.
+Wie einen Sack voll Gold.
+Oder einen Schlag ins Gesicht.
+Was als Druckmittel in Frage kommt, hängt von den beteiligten Parteien und der gestellten Forderung ab.
+Drohe einem einzelnen Goblin mit dem Tod und du hast etwas gegen ihn in der Hand.
+Drohe einem Goblin, der seinen ganzen Stamm als Unterstützung hinter sich hat, mit dem Tod, und er wird sich überlegen, ob er mit einem Kampf besser davonkommt.
+
+Bei einer 7+ wirst du nach einem Versprechen gefragt, das mit deinem Druckmittel zusammenhängt.
+Wenn dein Druckmittel beispielsweise darin besteht, dass du vor deinem Gegenspieler stehst, dein Messer schärfst und andeutest, wie sehr du Lust hast, ihn aufzuschlitzen, dann wird er dich möglicherweise anflehen, ihn gehen zu lassen.
+Wenn dein Druckmittel deine einflussreiche Stellung am Hofe des Königs ist, könnte dein Gegenspieler dich vielleicht um einen Gefallen bitten.
+
+Was dabei auch immer von dir verlangt wird, bei einer 10+ musst du es klar und deutlich versprechen.
+Bei einer 7–9 reicht das noch nicht aus:
+Bevor dein Gegenspieler tut, was du von ihm verlangst, musst du sofort einen Beweis dafür liefern, dass du dein Versprechen in die Tat umsetzen wirst.
+Angenommen, du bietest einem Händler Schutz vor den Wölfen, wenn er im Gegenzug tut, was du verlangst.
+Wenn du dann eine 7–9 würfelst, wird er seinen Teil des Abkommens erst erfüllen, wenn du ihm einen frischen Wolfspelz bringst – als Beweis dafür, dass du überhaupt dazu in der Lage bist.
+Ein interessanter Punkt ist, dass du dein Versprechen überhaupt nicht in die Tat umsetzen musst;
+ob du es tust oder nicht, hängt ganz von dir ab.
+Natürlich können gebrochene Versprechen zu späteren Schwierigkeiten führen.
+Wenn du als Eidbrecher bekannt bist, wird man mit dir nicht eben freundlich umgehen und du kannst dich darauf einstellen, dass dir des Öfteren die kalte Schulter gezeigt wird.
+
+Manchmal ist das Versprechen, das du deinem Gegenspieler machen musst, bereits in deinem Verhandlungsziel inbegriffen – so wie in "Verschwinde und ich verspreche dir, dich am Leben zu lassen".
+Es hängt ganz vom Gegenspieler ab, ob er mit diesem Versprechen leben kann oder etwas ganz anderes im Sinn hat.
+Er könnte antworten "Ja, lass mich leben und ich werde mich nie wieder hier blicken lassen" (mit entsprechender Absicherung, wenn du eine 7–9 gewürfelt hast) oder er könnte stattdessen erwidern "Versprich mir erst, dass du mir nicht folgen wirst".
+
+____
+Leena: Lord Hywn, ihr müsst euch für mich verbürgen oder die Königin wird mir nie eine Audienz gewähren.
+
+SL: Er ist nicht wirklich überzeugt; wenn du ihn blamierst, könnte das seinem Ruf empfindlichen Schaden zufügen.
+"Warum sollte ich euch helfen, Leena?"
+
+Leena: Oh, während ich mit ihm spreche, spiele ich beiläufig mit dem Siegelring dieses Mörders, den wir getötet haben.
+Des Mörders, den er auf den Prinzen angesetzt hatte.
+Ich stelle sicher, dass der Lord den Ring auch sieht.
+
+SL: Oha, na gut.
+Würfle _Schachern_.
+
+Leena: Eine 8.
+
+SL: "Genug der Scherereien!", ruft er mit eisiger Wut.
+"Wir wissen beide, dass ihr meinen gedungenen Mann ermordet habt.
+Gebt mir den Ring, schwört mir, dass kein Wörtchen darüber eure Lippen verlässt, und ich tue, was ihr sagt."
+
+Leena: Ich werfe ihm den Ring hin.
+Das wird sicher nicht der einzige Dreck sein, den dieser Mistkerl am Stecken hat.
+____
+____
+Pendrell: Hier spielt Einauge immer Karten, nicht wahr?
+Gut, ich schlendere hinüber zu den Türstehern.
+"Hey Leute, wie wär's, wenn ihr, na ja… die Tür aufmacht und mich reinlasst?"
+Und ich bin dabei charmant und cool und so.
+_Schachern_ ist würfeln+CHA, nicht wahr?
+
+SL: Nicht so schnell, du gerissener Hund.
+Du hast bist jetzt nur gesagt, was du eigentlich willst.
+Der Große auf der rechten Seite, der streng riecht, baut sich vor dir auf und sagt gelangweilt "Bitte um Verzeihung, Sir, geschlossene Gesellschaft."
+Er wirkt, als hasse er seinen Job und wünschte, er wäre woanders.
+Wenn du _schachern_ willst, brauchst du eine Art von Druckmittel.
+Vielleicht hilft ein bisschen Schmiere?
+____

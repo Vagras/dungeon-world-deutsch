@@ -404,3 +404,68 @@ Ich wette, wenn du einen Zauber in den Schädel hineinzauberst, wird er zu einem
 
 Vitus: Magische Geschosse des Feuers – hurra!
 ____
+
+.Tatsachen aufdecken
+****
+*Wenn du eine Situation oder Person eingehend studierst,* würfle+WEI.
+✴ Bei einer 10+ darfst du dem SL drei Fragen von der Liste unten stellen.
+✴ Bei einer 7–9 darfst du nur eine stellen.
+
+Wenn du den Antworten entsprechend handelst, bekommst du +1 vorwärts.
+
+* Was ist hier vor Kurzem geschehen?
+* Was wird als Nächstes geschehen?
+* Wovor sollte ich hier auf der Hut sein?
+* Was hier ist nützlich oder wertvoll für mich?
+* Wer hat hier wirklich das Sagen?
+* Was hier ist nicht so, wie es zu sein scheint?
+****
+
+Um _Tatsachen aufzudecken_, musst du dein Ziel genau beobachten.
+Das bedeutet üblicherweise, dass du damit interagieren musst (oder jemand anderem dabei zuschaust).
+Du kannst nicht einfach deinen Kopf durch die Tür stecken und _Tatsachen_ über einen Raum _aufdecken_.
+Du schaust nicht einfach nebenbei nach Hinweisen – du kramst unter alten Sitzbezügen und zwischen Polstern, klopfst Wände ab und hältst Ausschau nach verdächtigen Mustern im Staub, der sich auf Bücherregalen angesammelt hat.
+Sowas eben.
+
+Bei _Tatsachen aufdecken_ geht es auch nicht einfach um ein kleines Detail, sondern um das Erkennen von größeren Zusammenhängen.
+Der SL beschreibt immer ehrlich, was die Spielercharaktere wahrnehmen – so wird er zum Beispiel in einem Kampf sagen, dass der Koboldmagier am anderen Ende des Raumes bleibt.
+_Tatsachen aufdecken_ könnte den Grund dafür in Erfahrung bringen:
+Die Bewegungen, die er vollführt, ziehen Energie aus dem Raum hinter ihm an, weswegen er nicht näher kommen kann.
+
+Genau wie bei _Wissen verkünden_ sind die Antworten, die du vom SL erhältst, immer aufrichtig – auch dann, wenn er sie sich aus dem Stegreif einfallen lassen musste.
+Sobald die Antwort im Raum steht, ist sie in Stein gemeißelt.
+Du willst auch dann _Tatsachen aufdecken_, wenn du die Wahrheit hinter – auf magische oder andere Weise erzeugte – Illusionen herausfinden willst.
+
+Solange in einem Move nichts anderes behauptet wird, kannst du nur die Fragen an den SL richten, die in der Liste erscheinen.
+Wenn du eine Frage stellst, die nicht auf der Liste ist, kann der SL dich entweder bitten, eine andere zu stellen oder dir eine Antwort geben, die zu einer Frage aus der Liste passt.
+
+Es kann natürlich vorkommen, dass die Antwort auf eine Frage negativ ausfällt.
+Das ist in Ordnung.
+Wenn es tatsächlich nichts Nützliches oder Verwertbares in Erfahrung zu bringen gibt, wird der SL dir deine Frage mit "Nichts, tut mir leid" beantworten.
+
+____
+Omar: Ich traue diesem Raum nicht – ich werde mich hier mal ein bisschen umsehen.
+Ich hole mein Werkzeug raus und fummle an der Einrichtung herum.
+Ich ziehe an Kerzenhaltern, klopfe die Wand mit dem Hammer ab.
+Meine üblichen Tricks eben.
+
+SL: _Tatsachen aufdecken_?
+
+Omar: Oh ja.
+Ich decke _alle_ Tatsachen auf.
+Ich habe eine 12.
+Ich würde gern wissen, "was hier ist nicht, wie es zu sein scheint?".
+
+SL: Also, es ist offensichtlich für dich, dass die Nordwand des Raumes eine hohle Stelle hat.
+Das Mauerwerk ist neuer und der Mörtel frischer, wahrscheinlich eine versteckte Nische oder ein Durchgang.
+
+Omar: Ich will noch eine stellen.
+"Wer hat den Raum versiegelt?"
+
+SL: Die Frage ist nicht auf der Liste, also tue ich so, als hättest du "Was ist hier vor Kurzem geschehen?" gefragt.
+Als du dir das Mauerwerk anschaust, fällt dir auf, dass es scheinbar nach außen gedrückt wurde.
+Die Arbeit wurde hastig und ohne Fertigkeit durchgeführt – dir scheint, als wäre es das Werk von Goblins gewesen.
+Die einzige Möglichkeit, die dir einfällt, wie die Mauer so aus der Form geraten konnte, ist, wenn jemand oder etwas von innen dagegendrückt.
+
+Omar: Also haben die Goblins sie entweder von der anderen Seite verschlossen, oder da drin ist etwas, was versucht hat, zu fliehen.
+____

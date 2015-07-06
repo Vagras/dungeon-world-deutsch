@@ -589,3 +589,70 @@ Okay, würfle+0.
 Wenn der Wurf erfolgreich ist, bekommst du, Ozruk, +1 auf deinen _Verteidigen_-Wurf.
 Los geht's!
 ____
+
+== Spezielle Moves
+
+Spezielle Moves sind solche, die im Spielverlauf weniger häufig oder nur in bestimmten Situationen auftreten.
+Trotzdem sind sie ein grundlegender Teil aller Dinge, die Spielercharaktere in _Dungeon World_ tun können – insbesondere dann, wenn sie nicht gerade zu epischen Abenteuern ausgezogen oder in Verliesen unterwegs sind.
+
+.Letzter Atemzug
+****
+*Wenn du stirbst,* kannst du einen Blick auf das erhaschen, was jenseits des schwarzen Tores liegt.
+Der SL wird es dir beschreiben.
+Würfle+nichts – den Tod interessiert es nicht, wie hart oder abgebrüht du bist.
+✴ Bei einer 10+ springst du dem Tod von der Schippe:
+Dein Leben hängt am seidenen Faden, aber du bist am Leben.
+✴ Bei einer 7–9 wird dir der Tod einen Handel vorschlagen.
+Wenn du ihn annimmst, stabilisiert sich dein Zustand.
+Wenn nicht, trittst du die Reise jenseits des schwarzen Tores an, dem Schicksal entgegen, das dich dort erwarten mag.
+✴ Bei einer 6- ist dein Schicksal besiegelt;
+der Tod hat dich als einen der Seinigen markiert und wird dich bald über die Schwelle geleiten.
+Der SL wird dir sagen, wann.
+****
+
+Dein _letzter Atemzug_ ist jener Moment, in dem du an der Schwelle zwischen Leben und Ableben stehst.
+Die Zeit steht still, während der Tod dich zu sich holt.
+Auch wenn du nicht durch das schwarze Tor schreitest, kannst du einen Blick auf das erhaschen, was dich dahinter erwartet – alte Freunde und alte Feinde, Lohn oder Strafe für vergangene und zukünftige Taten, oder noch seltsamere Ausblicke können sich darbieten.
+Dieser Moment verändert jeden, der ihn erlebt – auch die, die ihm entrinnen können.
+
+Der Move kann drei Auswirkungen haben.
+Bei einer 10+ hast du den Tod auf bedeutsame Weise übertrumpft und bist mit etwas davongekommen, das nicht mehr rechtmäßig dir gehört.
+Der Tod hat keine Macht, das aufzuhalten, aber er wird die Kränkung nicht vergessen.
+Bei einer 7–9 sollte der SL dich vor eine Wahl mit erheblichen Konsequenzen stellen.
+Für den SL:
+Behalte dabei im Hinterkopf, wie der Charakter sich im Spiel verhalten hat und was du während des Spiels über ihn gelernt hast.
+Der Tod weiß alles und sieht alles, dementsprechend wird er sein Angebot gestalten.
+Denke daran – dies ist ein Handel.
+Biete etwas, das eine Herausforderung für den Spieler darstellt und das Spiel gleichzeitig in eine interessante neue Richtung führt.
+Bei einem Fehlschlag ist der Tod unausweichlich.
+Das Naheliegende wäre, zu sagen "Der Tod geleitet dich über die Schwelle, in sein finsteres Königreich" und weiterzumachen.
+Manchmal kommt der Tod allerdings schleichend.
+Du könntest sagen "Du hast noch eine Woche zu leben" oder "Du spürst die kalte Hand des Todes auf deiner Schulter" und es zunächst dabei belassen.
+Wenn der Spieler an diesem Punkt nachgibt und sich in sein Schicksal fügt, dann ist das vollkommen in Ordnung.
+Stelle mit ihm einen neuen Charakter zusammen wie sonst auch.
+Das Wesentliche, was du dir merken musst, ist, dass eine Berührung mit dem Tod einen schicksalhaften Moment darstellt, der an niemandem spurlos vorüberzieht.
+
+____
+SL: Sparrow, als die Messerklinge in deinen Eingeweiden verschwindet, schwindet die Welt mit ihr.
+Du stehst vor den Schwarzen Toren des Todes.
+In der Schar der leidenden Seelen erspähst du Lord Hwyn, diesen widerlichen Hundesohn.
+Es scheint, als hätten ihn seine kranken Machenschaften endlich eingeholt.
+Eure Augen kreuzen sich über der schwarzen Schlucht, und du kannst seinen Hunger bis tief in deine Seele spüren.
+Nimm deinen letzten Atemzug.
+
+Sparrow: Heftig.
+Ich habe eine 9.
+
+SL: Der Tod erscheint vor dir, Fetzen schwarzen Stoffes tanzen um seine schemenhafte Gestalt.
+Eine bleiche Hand streicht über dein Gesicht.
+Du vernimmst seine Stimme in deinem Kopf.
+"So früh schon bist du bei mir, kleiner Spatz?
+Du folgst dem Fluss der Seelen, hierhergeschwemmt von deiner Klinge.
+Ich habe dich dafür sehr liebgewonnen.
+Du sollst zurückkehren in deine Welt, aber versprich mir dies:
+So, wie du im Schatten verweilst, sollst du Teil des Schattens werden.
+Meide das Licht der Sonne für immer, oder beehre mich wieder.
+Wie lautet deine Antwort, kleine Diebin?"
+
+Sparrow: (schluck)
+____

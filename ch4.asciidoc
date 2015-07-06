@@ -263,7 +263,7 @@ Solange du verteidigst, kannst du, wenn du oder dein Ziel angegriffen werden, Re
 
 * Lenke einen Angriff von deinem Ziel auf dich um.
 * Halbiere den Schaden oder den Effekt des Angriffs.
-* Reiße eine Lücke in die Verteidigung deines Angreifers und gib einem Verbündeten +1 vorwärts gegen ihn.
+* Reiße eine Lücke in die Verteidigung deines Angreifers und gib einem Verbündeten +1 voraus gegen ihn.
 * Füge deinem Angreifer soviel Schaden zu, wie du Stufen hast.
 ****
 
@@ -411,7 +411,7 @@ ____
 ✴ Bei einer 10+ darfst du dem SL drei Fragen von der Liste unten stellen.
 ✴ Bei einer 7–9 darfst du nur eine stellen.
 
-Wenn du den Antworten entsprechend handelst, bekommst du +1 vorwärts.
+Wenn du den Antworten entsprechend handelst, bekommst du +1 voraus.
 
 * Was ist hier vor Kurzem geschehen?
 * Was wird als Nächstes geschehen?
@@ -692,7 +692,7 @@ Du heilst ganz normal Trefferpunkte, aber deine Rationen verbrauchst du nur dann
 .Wache halten
 ****
 *Wenn du Wachdienst hast und sich etwas dem Lager nähert,* würfle+WEI.
-✴ Bei einer 10+ gelingt es dir, das Lager zu wecken und bereitzumachen; jeder im Lager erhält +1 vorwärts.
+✴ Bei einer 10+ gelingt es dir, das Lager zu wecken und bereitzumachen; jeder im Lager erhält +1 voraus.
 ✴ Bei einer 7–9 hast du einen Moment zu spät reagiert:
 Deine Gefährten sind wach, aber sie hatten keine Zeit, sich vorzubereiten.
 Sie haben nichts außer ihrer Waffen und Rüstungen.

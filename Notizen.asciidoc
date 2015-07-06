@@ -8,8 +8,10 @@ Was sowohl in "Move" als auch in "Zug", nicht aber in "Aktion" mitschwingt, ist 
 
 1 hold: 1 Reserve. Hat sich bisher ganz gut bei _Verteidigen_ gemacht. Eine Möglichkeit wäre, die Übersetzung von "hold" für jeden Move einzeln anzupassen.
 
-+1 forward: +1 vorwärts
-+1 ongoing:
++1 forward: voraus, vorwärts
++1 ongoing: fortlaufend, fortwährend
+
+Bond: Bande (Mehrzahl von Band), wie in "Bande knüpfen". Klingt ein bisschen altertümlich, aber na ja…
 
 == Moves
 

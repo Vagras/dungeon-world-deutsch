@@ -19,12 +19,12 @@ Einige Züge werden begleitet von einer kurzen Erläuterung ihrer Nutzung und ei
 === Grundlegende Züge
 
 .Hauen und Stechen
-****
+====
 *Wenn du einen Gegner im Nahkampf angreifst,* würfle+STÄ.
 ✴ Bei einer 10+ fügst du deinem Gegner Schaden zu und entrinnst seinem Angriff.
 Wenn du willst, kannst du außerdem +1W6 Schaden machen, setzt dich dabei aber dem Angriff deines Gegners aus.
 ✴ Bei einer 7–9 fügst du deinem Gegner Schaden zu und dein Gegner kann einen Angriff gegen dich ausführen.
-****
+====
 
 _Hauen und Stechen_ ist dazu da, einen wehrhaften Feind anzugreifen – schlicht und einfach.
 Wenn dein Gegner sich nicht wehren kann – weil er nicht weiß, dass du da bist, oder weil er gefesselt und hilflos ist –, dann ist das kein _Hauen und Stechen_.
@@ -102,7 +102,7 @@ Was machst du?
 ____
 
 .Salve
-****
+====
 *Wenn du zielst und im Fernkampf auf einen Gegner schießt,* würfle+GES.
 ✴ Bei einer 10+ hast du ein freies Schussfeld – mache deinen Schaden.
 ✴ Bei einer 7–9, wähle eins (egal, was du wählst, du richtest deinen Schaden an):
@@ -110,7 +110,7 @@ ____
 * Du musst dich bewegen, um deinen Schuss anbringen zu können, und begibst dich dadurch in Gefahr (vom SL vorgegeben)
 * Du musst nehmen, was du kriegen kannst: -1W6 Schaden
 * Du musst mehrere Salven abfeuern: Reduziere deine Munition um 1
-****
+====
 
 Eine _Salve_ beinhaltet den gesamten Akt des Spannens, Zielens und Feuerns einer Fernkampfwaffe, oder das Werfen einer Wurfwaffe.
 Der Vorteil gegenüber dem Nahkampf besteht darin, dass der Angegriffene weniger Chancen hat, zurückzuschlagen.
@@ -164,7 +164,7 @@ Was machst du?
 ____
 
 .Gefahr trotzen
-****
+====
 *Wenn du trotz einer unmittelbaren Gefahr handelst oder ein drohendes Unheil hinnehmen musst*, beschreibe, wie du damit umgehst, und würfle.
 Wenn du der Gefahr entgehst, indem du…
 
@@ -178,7 +178,7 @@ Wenn du der Gefahr entgehst, indem du…
 ✴ Bei einer 10+ gelingt dein Vorhaben, und die Bedrohung verhallt unerfüllt.
 ✴ Bei einer 7–9 stolperst, zögerst oder taumelst du:
 Der SL wird dir einen ungünstigeren Ausgang oder einen teuren Handel anbieten, oder dich vor die Wahl zwischen zwei Übeln stellen.
-****
+====
 
 Du _trotzt Gefahr_, wenn du etwas im Angesicht drohenden Unheils machst.
 Das mag klingen wie ein viel zu vager Sammelbegriff, aber genau das ist die Absicht dahinter!
@@ -255,7 +255,7 @@ _Hauen und Stechen_ dann bitte, mach deinen Zug!
 ____
 
 .Verteidigen
-****
+====
 *Wenn du eine Person, einen Gegenstand oder einen Ort vor Angriffen bewahren willst,* würfle+KON.
 ✴ Bei einer 10+ erhältst du 3 Reserve.
 ✴ Bei einer 7–9 erhältst du 1 Reserve.
@@ -265,7 +265,7 @@ Solange du verteidigst, kannst du, wenn du oder dein Ziel angegriffen werden, Re
 * Halbiere den Schaden oder den Effekt des Angriffs.
 * Reiße eine Lücke in die Verteidigung deines Angreifers und gib einem Verbündeten +1 voraus gegen ihn.
 * Füge deinem Angreifer soviel Schaden zu, wie du Stufen hast.
-****
+====
 
 Etwas zu verteidigen bedeutet, dass du in der Nähe bleibst und dich darauf konzentrierst, Angriffe auf dein Ziel zu vermeiden oder zu verhindern, dass jemand ihm zu nahe kommt.
 Wenn du dich nicht mehr in der Nähe befindest oder deine Aufmerksamkeit etwas anderem zuwendest, verlierst du deine Reserve.
@@ -338,13 +338,13 @@ Vergiss es, Durga, du bist auf dich allein gestellt!
 ____
 
 .Weisheit kundtun
-****
+====
 *Wenn du dein angesammeltes Wissen über etwas konsultierst*, würfle+INT.
 ✴ Bei einer 10+ wird dir der SL etwas Interessantes und Nützliches über das Objekt deiner Neugier erzählen, das für deine momentane Situation von Belang ist.
 ✴ Bei einer 7–9 wird er dir nur etwas Interessantes darüber erzählen – es liegt an dir, die Information zu deinem Vorteil zu nutzen.
 Der SL könnte dich fragen "Woher weißt du das?"
 Sag ihm die Wahrheit, und zwar jetzt.
-****
+====
 
 Du _tust_ deine _Weisheit_ immer dann _kund_, wenn du in deinem Gedächtnis nach Wissen oder Fakten über etwas kramst.
 Du könntest dir zum Beispiel einen Moment Zeit nehmen, um darüber nachzudenken, was du über die Orkischen Stämme oder die Türme von Ul'dammar weißt, und enthüllst dann dieses Wissen.
@@ -406,7 +406,7 @@ Vitus: Magische Geschosse des Feuers – hurra!
 ____
 
 .Tatsachen aufdecken
-****
+====
 *Wenn du eine Situation oder Person eingehend studierst,* würfle+WEI.
 ✴ Bei einer 10+ darfst du dem SL drei Fragen von der Liste unten stellen.
 ✴ Bei einer 7–9 darfst du nur eine stellen.
@@ -419,7 +419,7 @@ Wenn du den Antworten entsprechend handelst, bekommst du +1 voraus.
 * Was hier ist nützlich oder wertvoll für mich?
 * Wer hat hier wirklich das Sagen?
 * Was hier ist nicht so, wie es zu sein scheint?
-****
+====
 
 Um _Tatsachen aufzudecken_, musst du dein Ziel genau beobachten.
 Das bedeutet üblicherweise, dass du damit interagieren musst (oder jemand anderem dabei zuschaust).
@@ -471,12 +471,12 @@ Omar: Also haben die Goblins sie entweder von der anderen Seite verschlossen, od
 ____
 
 .Schachern
-****
+====
 *Wenn du ein Druckmittel gegen jemanden in der Hand hast und ihn damit manipulierst,* würfle+CHA.
 Ein Druckmittel ist etwas, das derjenige benötigt oder haben will.
 ✴ Bei einer 10+ tut er, was du sagst, solange du ihm im Gegenzug etwas versprichst.
 ✴ Bei einer 7–9 wird er tun, was du sagst – aber nur dann, wenn du ihm hier und jetzt einen konkreten Beweis für dein Versprechen gibst.
-****
+====
 
 _Schachern_ umfasst viele Situationen, darunter alte Bekannte wie Einschüchtern oder Diplomatie.
 Du weißt, dass du Schachern benutzt, wenn du jemanden mit Hilfe eines Versprechens oder einer Drohung dazu bewegen willst, etwas Bestimmtes zu tun.
@@ -549,11 +549,11 @@ Vielleicht hilft ein bisschen Schmiere?
 ____
 
 .Helfen oder Hindern
-****
+====
 *Wenn du jemanden unterstützen oder von etwas abhalten willst,* würfle+Bande.
 ✴ Bei einer 10+ bekommt er +1 oder -2 auf seinen Wurf, ganz wie du willst.
 ✴ Bei einer 7–9 bekommt er +1 oder -2, aber du setzt dich dabei seiner Vergeltung oder einer anderen Gefahr aus, oder dein Eingreifen hat einen Preis.
-****
+====
 
 Wann immer du das Gefühl hast, dass Spieler gegeneinander würfeln sollten, sollte der Verteidiger den Angreifer _behindern_.
 Das muss nicht immer bedeuten, dass er ihn und seine Pläne sabotieren will.
@@ -596,7 +596,7 @@ Spezielle Züge sind solche, die im Spielverlauf weniger häufig oder nur in bes
 Trotzdem sind sie ein grundlegender Teil aller Dinge, die Spielercharaktere in _Dungeon World_ tun können – insbesondere dann, wenn sie nicht gerade zu epischen Abenteuern ausgezogen oder in Verliesen unterwegs sind.
 
 .Letzter Atemzug
-****
+====
 *Wenn du stirbst,* kannst du einen Blick auf das erhaschen, was jenseits des schwarzen Tores liegt.
 Der SL wird es dir beschreiben.
 Würfle+nichts – den Tod interessiert es nicht, wie hart oder abgebrüht du bist.
@@ -608,7 +608,7 @@ Wenn nicht, trittst du die Reise jenseits des schwarzen Tores an, dem Schicksal 
 ✴ Bei einer 6- ist dein Schicksal besiegelt;
 der Tod hat dich als einen der Seinigen markiert und wird dich bald über die Schwelle geleiten.
 Der SL wird dir sagen, wann.
-****
+====
 
 Dein _letzter Atemzug_ ist jener Moment, in dem du an der Schwelle zwischen Leben und Ableben stehst.
 Die Zeit steht still, während der Tod dich zu sich holt.
@@ -658,14 +658,14 @@ Sparrow: (schluck)
 ____
 
 .Belastung
-****
+====
 *Wenn du einen Zug auslöst, während du Gewicht mit dir herumträgst,* kann sich diese Belastung nachteilig auswirken.
 Wenn du…
 
 * maximal deine Traglast mit dir trägst, erhältst du keinen Malus.
 * bis zu deiner Traglast+2 mit dir trägst, erhältst du -1 fortlaufend, bis du dich von deiner Last befreist.
 * mehr als deine Traglast+2 mit dir trägst, hast du die Wahl: Lasse etwas mit einem Gewicht von 1 oder mehr fallen oder dein Wurf schlägt automatisch fehl.
-****
+====
 
 Die Traglast eines Charakters wird durch seine Klasse und STÄ bestimmt.
 Mehr tragen zu können ist ein deutlicher Vorteil, wenn du Schätze aus einem Verlies schleppst – oder wenn du versuchst, genug Ausrüstung mitzubringen, um auf alles gefasst zu sein.
@@ -675,12 +675,12 @@ Einen großen Felsbrocken auf dem Rücken zu tragen ist keine _Belastung_, weil 
 Stattdessen beeinflusst es, welche Züge du in der Fiktion auslösen kannst.
 
 .Lager aufschlagen
-****
+====
 *Wenn du dich zur Ruhe niederlässt,* verbrauche eine Ration.
 Wenn du an einem gefährlichen Ort rastest, lege außerdem die Wachen fest.
 Falls du genügend EP hast, darfst du eine Stufe aufsteigen.
 Solange du wenigstens ein paar Stunden durchgehend schlafen konntest, heile die Hälfte deiner maximalen Trefferpunkte an Schaden.
-****
+====
 
 Du schlägst dein Lager normalerweise auf, um anderen Tätigkeiten nachzugehen – Zaubersprüche lernen beispielsweise, oder zu deinem Gott beten.
 Oder, du weißt schon, ausschlafen.
@@ -690,17 +690,17 @@ Du _schlägst_ auch dann dein _Lager auf_, wenn du in einem Gasthaus oder Herber
 Du heilst ganz normal Trefferpunkte, aber deine Rationen verbrauchst du nur dann, wenn du sie von dem Essen nimmst, das du selbst mitgebracht hast – nicht, wenn du für dein Essen bezahlt hast oder umsonst bewirtet wurdest.
 
 .Wache halten
-****
+====
 *Wenn du Wachdienst hast und sich etwas dem Lager nähert,* würfle+WEI.
 ✴ Bei einer 10+ gelingt es dir, das Lager zu wecken und bereitzumachen; jeder im Lager erhält +1 voraus.
 ✴ Bei einer 7–9 hast du einen Moment zu spät reagiert:
 Deine Gefährten sind wach, aber sie hatten keine Zeit, sich vorzubereiten.
 Sie haben nichts außer ihrer Waffen und Rüstungen.
 ✴ Bei einer 6- ist das, was auch immer im Dunkeln lauert, euch gegenüber im Vorteil.
-****
+====
 
 .Eine gefährliche Reise antreten
-****
+====
 *Wenn du durch feindseliges Gebiet reist,* wähle unter deinen Gefährten einen _Vorreiter_, einen _Kundschafter_ und einen _Quartiermeister_ aus.
 Jeder von ihnen würfelt+WEI.
 ✴ Bei einer 10+…
@@ -711,7 +711,7 @@ Jeder von ihnen würfelt+WEI.
 
 ✴ Bei einer 7–9 vollführen deine Gefährten ihren Job, wie man es erwarten würde:
 Die übliche Anzahl von Rationen wird verbraucht; die Reise dauert etwa so lange, wie man es erwarten würde; ihr könnt keinen Vorteil bei Begegnungen verbuchen, werdet selbst aber auch nicht überrascht.
-****
+====
 
 Du kannst einem Charakter nicht mehr als eine Aufgabe zuweisen.
 Wenn ihr nicht genug Leute seid oder nicht alle Aufgaben verteilen wollt, werden die nicht zugewiesenen Aufgaben als Fehlschlag (6-) behandelt.
@@ -730,7 +730,7 @@ Verbrauche in diesem Fall einfach Rationen, wenn du dein Lager aufschlägst.
 Der SL wird mehr Details über die Welt preisgeben, sobald du etwas entdeckt hast.
 
 .Das war's für heute
-****
+====
 *Wenn du am Ende der Spielsitzung angelangt bist,* wähle eine deiner Bande, von der du findest, dass sie aufgelöst ist (ausgereizt, nicht mehr relevant, oder anderes).
 Frage den Spieler des Charakters, mit dem du die Bande geschlossen hast, ob er oder sie dir zustimmt.
 Wenn ja, schreibe dir einen EP gut und schließe eine neue Bande, mit wem du willst.
@@ -744,10 +744,10 @@ Dann beantwortet folgende Fragen in der Gruppe:
 * Haben wir einen denkwürdigen Schatz gehoben?
 
 Schreibe dir für jede Frage, die du mit "Ja" beantworten kannst, einen EP gut.
-****
+====
 
 .Stufe aufsteigen
-****
+====
 *Wenn du dir eine Auszeit von mehreren Stunden oder Tagen nehmen kannst und mindestens `Stufe + 7` EP hast,* kannst du über deine Erfahrungen reflektieren und deine Fähigkeiten vervollkommnen.
 
 * Reduziere deine EP um `Stufe + 7`.
@@ -758,10 +758,10 @@ Schreibe dir für jede Frage, die du mit "Ja" beantworten kannst, einen EP gut.
 Dies könnte deinen Modifikator verändern.
 Das Ändern deiner Konstitution verändert außerdem deine maximalen und momentanen TP.
 Attribute können bis auf einen Wert von 18 gesteigert werden.
-****
+====
 
 .Zechen
-****
+====
 *Wenn du siegreich zurückkehrst und ein großes Gelage schmeißt,* gib 100 Münzen aus und würfle+1 pro 100 Münzen, die du zusätzlich ausgibst.
 ✴ Bei einer 10+ wähle 3.
 ✴ Bei einer 7–9 wähle 1.
@@ -771,30 +771,30 @@ Attribute können bis auf einen Wert von 18 gesteigert werden.
 * Du hörst Gerüchte über eine günstige Gelegenheit.
 * Dir kommen nützliche Informationen zu Ohren.
 * Du wirst nicht verzaubert, übers Ohr gehauen oder in etwas verwickelt.
-****
+====
 
 Du kannst nur _Zechen_, wenn du siegreich zurückkehrst.
 Der Sieg ist das, was die Bewunderer dazu bringt, sich um Abenteurer zu scharen, wenn diese ihren neuesten Beutezug feiern.
 Wenn du deinen Sieg nicht bekannt machst, wer würde dann schon mit dir zechen wollen?
 
 .Besorgungen machen
-****
+====
 *Wenn du Geld gegen Ware tauschen willst* und die Ware in der Siedlung, in der du dich aufhältst, problemlos aufzutreiben ist, kannst du die Ware zum Listenpreis kaufen.
 Wenn sie etwas besonderes ist – etwas, was verzaubert oder hier normalerweise nicht erhältlich ist –, würfle+CHA.
 ✴ Bei einer 10+ findest du, was du suchst, zu einem angemessenen Preis.
 ✴ Bei einer 7–9 musst du mehr zahlen oder dich mit etwas begnügen, das nicht ganz dem enspricht, was du eigentlich haben wolltest.
 Der SL wird dir deine Optionen aufzählen.
-****
+====
 
 .Zu Kräften kommen
-****
+====
 *Wenn du in Ruhe und Sicherheit bist und nichts tust, außer dich zu erholen,* erhältst du nach einem vollen Ruhetag deine gesamten TP wieder.
 Nach drei Ruhetagen darfst du eine Beeinträchtigung entfernen.
 Wenn du unter der Pflege eines Heilers stehst – magisch oder mondän –, darfst du stattdessen alle zwei Ruhetage eine Beeinträchtigung entfernen.
-****
+====
 
 .Anwerben
-****
+====
 *Wenn du verbreitest, dass du nach bezahlter Hilfe suchst,* würfle…
 
 * +1, wenn du erwähnst, dass die Bezahlung großzügig ausfällt,
@@ -808,10 +808,10 @@ Du bekommst keine Strafen für Leute, die du abweist.
 ✴ Bei einer 6- wird jemand ungeeignetes, aber einflussreiches verkünden, dass er sich dir anschließen will (ein tollkühner Halbstarker, ein Wolf im Schafspelz, ein Feind im Verborgenen oder ähnliches).
 Nimm ihn und lebe mit den Konsequenzen oder weise ihn ab.
 Wenn du ihn abweist, erhältst du -1 voraus auf _Anwerben_.
-****
+====
 
 .Steckbrief
-****
+====
 *Wenn du in einen Hort der Zivilisation zurückkehrst, in dem du Ärger verursacht hast,* würfle+CHA.
 ✴ Bei einer 10+ hat es sich herumgesprochen und dein Gesicht ist jedem bekannt.
 ✴ Bei einer 7–9 ebenso, aber der SL wählt eine Komplikation:
@@ -819,7 +819,7 @@ Wenn du ihn abweist, erhältst du -1 voraus auf _Anwerben_.
 * Die örtliche Wache hat eine Belohnung auf deine Ergreifung ausgeschrieben.
 * Jemand hat ein Kopfgeld auf dich ausgesetzt.
 * Jemand, der dir wichtig ist, sitzt als Folge deiner Taten in der Klemme.
-****
+====
 
 Dieser Zug ist nur für Orte, in denen du schon einmal Ärger hattest, nicht für jeden Flecken Zivilisation, den du betrittst.
 Er wird auch dann ausgelöst, wenn du öffentlich sichtbar in die Schwierigkeiten eines anderen verwickelt bist.
@@ -828,10 +828,10 @@ Als "Zivilisation" gelten die Dörfer und Städte von Menschen, Elfen, Zwergen u
 Solange deine Gruppe sich an einem Ort niedergelassen und dort am Gemeindeleben teilgenommen hat, zählt der Ort im Rahmen dieses Zuges als Zivilisation.
 
 .Wappnen
-****
+====
 *Wenn du deine Zeit mit dem Studium deiner Schriften, der Meditation oder hartem Training verbringst,* erhältst du Vorbereitung.
 Wenn du dich eine Woche oder länger _wappnest_, bekommst du 1 Vorbereitung.
 Wenn du stattdessen einen Monat oder länger darauf verwendest, bekommst du 3.
 Wenn deine Vorbereitung sich auszahlt, kannst du 1 Vorbereitung für einen +1-Bonus auf einen beliebigen Wurf eintauschen.
 Du kannst nur 1 Vorbereitung pro Wurf ausgeben.
-****
+====

@@ -8,31 +8,31 @@ Was sowohl in "Move" als auch in "Zug", nicht aber in "Aktion" mitschwingt, ist 
 
 1 hold: 1 Reserve. Hat sich bisher ganz gut bei _Verteidigen_ gemacht. Eine Möglichkeit wäre, die Übersetzung von "hold" für jeden Move einzeln anzupassen.
 
-+1 forward: voraus, vorwärts
-+1 ongoing: fortlaufend, fortwährend
+* +1 forward: voraus, vorwärts
+* +1 ongoing: fortlaufend, fortwährend
 
 Bond: Bande (Mehrzahl von Band), wie in "Bande knüpfen". Klingt ein bisschen altertümlich, aber na ja…
 
 == Moves
 
-Spout Lore: Wissen verkünden, klugscheißen, Weisheiten kundtun
-Discern Realities: Tatsachen aufdecken, Fakten aufdecken,
-Parley: Schachern, Verhandeln
-Aid or Interfere: Helfen oder Hindern
-Last Breath: Letzter Odem, Letzter Atemzug, Mit letzter Kraft
-Encumbrance: Belastung
-Make Camp: Rast machen, das Lager aufschlagen, Rasten
-Take Watch: Die Wache stellen, Wache halten
-Undertake a Perilous Journey: Zu einer gefährlichen/gefahrvollen/tückischen Reise aufbrechen, eine XXX Reise antreten/auf sich nehmen/unternehmen/machen/antreten
-End of Session: Sitzungsende, die Sitzung beenden
-Level Up: Stufe aufsteigen
-Carouse: Zechen, ein Gelage feiern/halten
-Supply: Besorgungen machen
-Recover: Sich erholen, zu Kräften kommen
-Recruit: Rekrutieren, Hilfe anwerben
-Outstanding Warrant: Ausstehender Haftbefehl, ausstehender Steckbrief (aber: "warrant" im Englischen ist vielseitiger und scheint sich auf Sachen beziehen zu können, die nicht unbedingt mit dem Gesetz im Einklang sind – Kopfgelder zum Beispiel)
-Bolster: Sich wappnen, sich vorbereiten, seine Hausaufgaben machen
+* Spout Lore: Wissen verkünden, klugscheißen, Weisheiten kundtun
+* Discern Realities: Tatsachen aufdecken, Fakten aufdecken,
+* Parley: Schachern, Verhandeln
+* Aid or Interfere: Helfen oder Hindern
+* Last Breath: Letzter Odem, Letzter Atemzug, Mit letzter Kraft
+* Encumbrance: Belastung
+* Make Camp: Rast machen, das Lager aufschlagen, Rasten
+* Take Watch: Die Wache stellen, Wache halten
+* Undertake a Perilous Journey: Zu einer gefährlichen/gefahrvollen/tückischen Reise aufbrechen, eine XXX Reise antreten/auf sich nehmen/unternehmen/machen/antreten
+* End of Session: Sitzungsende, die Sitzung beenden
+* Level Up: Stufe aufsteigen
+* Carouse: Zechen, ein Gelage feiern/halten
+* Supply: Besorgungen machen
+* Recover: Sich erholen, zu Kräften kommen
+* Recruit: Rekrutieren, Hilfe anwerben
+* Outstanding Warrant: Ausstehender Haftbefehl, ausstehender Steckbrief (aber: "warrant" im Englischen ist vielseitiger und scheint sich auf Sachen beziehen zu können, die nicht unbedingt mit dem Gesetz im Einklang sind – Kopfgelder zum Beispiel)
+* Bolster: Sich wappnen, sich vorbereiten, seine Hausaufgaben machen
 
 === SL-Moves
 
-Reveal an unwelcome Truth: Eine unangenehme Wahrheit enthüllen
+* Reveal an unwelcome Truth: Eine unangenehme Wahrheit enthüllen

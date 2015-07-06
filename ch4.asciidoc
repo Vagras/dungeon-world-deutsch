@@ -1,22 +1,22 @@
 
-== Grundlegende Moves
+== Grundlegende Züge
 
-Dieses Kapitel enthält Moves, die allen Charakteren zur Verfügung stehen.
+Dieses Kapitel enthält Züge, die allen Charakteren zur Verfügung stehen.
 Sie lassen sich in zwei Kategorien unterteilen: Grundlegende und spezielle.
 
-Grundlegende Moves machen den Löwenanteil des Abenteurerlebens aus.
+Grundlegende Züge machen den Löwenanteil des Abenteurerlebens aus.
 Sie kommen zur Anwendung in Kämpfen, angespannten Verhandlungen, gefährlichen Gegenden und dergleichen.
 
-Spezielle Moves werden seltener zum Einsatz kommen.
+Spezielle Züge werden seltener zum Einsatz kommen.
 Sie behandeln Sachen wie Stufenaufstiege, das Unternehmen einer langen Reise oder die Rückkehr in die Stadt nach einem Abenteuer.
 
-Alle Spielercharaktere können grundlegende und spezielle Moves benutzen.
-Zusätzlich hat jeder Spielercharakter Moves, die ihm von seiner Klasse zur Verfügung gestellt werden – die werden wir uns später genauer anschauen.
+Alle Spielercharaktere können grundlegende und spezielle Züge benutzen.
+Zusätzlich hat jeder Spielercharakter Züge, die ihm von seiner Klasse zur Verfügung gestellt werden – die werden wir uns später genauer anschauen.
 
-Wir werden jeden Move zuerst beim Namen nennen, danach folgt eine Beschreibung seiner Regeln.
-Einige Moves werden begleitet von einer kurzen Erläuterung ihrer Nutzung und einem Spielbeispiel.
+Wir werden jeden Zug zuerst beim Namen nennen, danach folgt eine Beschreibung seiner Regeln.
+Einige Züge werden begleitet von einer kurzen Erläuterung ihrer Nutzung und einem Spielbeispiel.
 
-=== Grundlegende Moves
+=== Grundlegende Züge
 
 .Hauen und Stechen
 ****
@@ -31,7 +31,7 @@ Wenn dein Gegner sich nicht wehren kann – weil er nicht weiß, dass du da bist
 Du machst einfach deinen Schaden oder tötest ihn sofort, je nachdem, was die Situation gerade hergibt.
 Böse Sache.
 
-Der Angriff deines Gegners kann ein beliebiger Spielleiter-Move sein, solange er direkt von diesem Gegner ausgeht.
+Der Angriff deines Gegners kann ein beliebiger Spielleiter-Zug sein, solange er direkt von diesem Gegner ausgeht.
 Ein Goblin schlägt vielleicht einfach zurück, oder er rammt dir eine vergiftete Nadel in die Seite.
 Das Leben als Abenteurer ist nunmal kein Zuckerschlecken.
 
@@ -41,7 +41,7 @@ Es wird ihm einfach keinen Schaden zufügen, also ist _Hauen und Stechen_ hier n
 Das kann sich jedoch ändern, wenn die Umstände anders sind:
 Wenn du so positioniert bist, dass du den weichen Bauch des Drachen angreifen kannst (viel Glück beim Dahinkommen!), kannst du ihm wehtun, und das ist dann ein Angriff.
 
-Wenn es Sinn macht, dass du mit der Aktion, die den Move ausgelöst hat, mehrere Feinde angreifen kannst, würfle einmal und füge jedem Ziel den Schaden zu (abzüglich seiner Rüstung).
+Wenn es Sinn macht, dass du mit der Aktion, die den Zug ausgelöst hat, mehrere Feinde angreifen kannst, würfle einmal und füge jedem Ziel den Schaden zu (abzüglich seiner Rüstung).
 
 Manche Angriffe können – abhängig von der auslösenden Aktion, den Umständen oder den eingesetzten Waffen – zusätzliche Effekte haben:
 Ein Angriff könnte jemanden niederschlagen, oder entwaffnen… oder nichts außer einem großen, blutigen Fleck hinterlassen.
@@ -121,7 +121,7 @@ Er könnte mit schlechtem Untergrund zu kämpfen haben oder am spitzen Ende eine
 Was auch immer die "Gefahr" ist, sie kommt näher und führt immer dazu, dass der SL die berühmte Frage stellt: "Was machst du?"
 Oft wird dich die Situation dazu zwingen, dich voll und ganz auf ihre Abwendung zu konzentrieren oder der _Gefahr zu trotzen_.
 
-Falls du etwas wirfst, das keine Munitionsanzeige hat (vielleicht hast du einen Move, der dir erlaubt, deinen Schild zu werfen), kannst du dir bei einer 7–9 nicht aussuchen, Munition abzustreichen.
+Falls du etwas wirfst, das keine Munitionsanzeige hat (vielleicht hast du einen Zug, der dir erlaubt, deinen Schild zu werfen), kannst du dir bei einer 7–9 nicht aussuchen, Munition abzustreichen.
 Wähle stattdessen eine der beiden anderen Optionen.
 
 ____
@@ -182,15 +182,15 @@ Der SL wird dir einen ungünstigeren Ausgang oder einen teuren Handel anbieten, 
 
 Du _trotzt Gefahr_, wenn du etwas im Angesicht drohenden Unheils machst.
 Das mag klingen wie ein viel zu vager Sammelbegriff, aber genau das ist die Absicht dahinter!
-_Gefahr trotzen_ ist dann angebracht, wenn man das Gefühl hat, jetzt würfeln zu müssen, sich aber kein anderer Move anbietet.
+_Gefahr trotzen_ ist dann angebracht, wenn man das Gefühl hat, jetzt würfeln zu müssen, sich aber kein anderer Zug anbietet.
 
-_Gefahr trotzen_ wird auch verwendet, wenn man einen anderen Move macht und dabei Schwierigkeiten begegnet, die durch ihn nicht abgedeckt sind.
-Zum Beispiel unterstellt der Move _Hauen und Stechen_ einen Schlagabtausch im Nahkampf:
+_Gefahr trotzen_ wird auch verwendet, wenn man einen anderen Zug macht und dabei Schwierigkeiten begegnet, die durch ihn nicht abgedeckt sind.
+Zum Beispiel unterstellt der Zug _Hauen und Stechen_ einen Schlagabtausch im Nahkampf:
 Du musst nicht jedes mal _Gefahr trotzen_, wenn du dem Angriff des Monsters ausweichen willst; es sei denn, es ist eine Gefahr im Spiel, die nicht direkt etwas mit dem Angriff des Monsters zu tun hat.
 Wenn du andererseits zu _hauen und stechen_ versuchst, während scharfkantige Speere aus Löchern in der Wand schießen, dann sind diese Speere sehr wohl eine _Gefahr_, der _getrotzt_ werden muss.
 
 Eine "Gefahr" ist dabei alles, was Widerstandsfähigkeit, Konzentration oder Gleichgewichtssinn erfordert.
-Dieser Move wird üblicherweise vom SL gefordert.
+Dieser Zug wird üblicherweise vom SL gefordert.
 Er wird dir sagen, was in dieser Situation die konkrete Gefahr ist, der du gegenüberstehst.
 In etwa so:
 "Du wirst erstmal _Gefahr trotzen_ müssen.
@@ -198,11 +198,11 @@ Die Gefahr ist der steile, vereiste Boden, über den du rennen willst.
 Wenn du es schaffst, auf den Füßen zu bleiben, schaffst du es auch, die Tür zu erreichen, bevor der Nekromant es schafft, seine Magie auf dich loszulassen."
 
 Das verwendete Attribut wird von der Art und Weise festgelegt, mit der du der Gefahr begegnest.
-Deine Aktion muss dabei den Move auslösen.
+Deine Aktion muss dabei den Zug auslösen.
 Das bedeutet, dass du der Gefahr eines abschüssigen, vereisten Bodens nicht einfach trotzen kannst, indem du ein gewinnendes Lächeln aufsetzt, nur weil CHA dein bester Wert ist:
 Den Boden charmant anzulächeln hat keine Wirkung.
 Stattdessen könntest du mit STÄ einen gewaltigen Satz über die vereiste Stelle machen, mit GES vorsichtig hinüberbalancieren, und so weiter.
-Indem du den Move vollführst, bekommst du das Ergebnis.
+Indem du den Zug vollführst, bekommst du das Ergebnis.
 
 ____
 SL: Emory, während du die Seite der Schlucht erklimmst, erblickst du einen Kultisten auf einem nahen Vorsprung.
@@ -436,7 +436,7 @@ Genau wie bei _Wissen verkünden_ sind die Antworten, die du vom SL erhältst, i
 Sobald die Antwort im Raum steht, ist sie in Stein gemeißelt.
 Du willst auch dann _Tatsachen aufdecken_, wenn du die Wahrheit hinter – auf magische oder andere Weise erzeugte – Illusionen herausfinden willst.
 
-Solange in einem Move nichts anderes behauptet wird, kannst du nur die Fragen an den SL richten, die in der Liste erscheinen.
+Solange in einem Zug nichts anderes behauptet wird, kannst du nur die Fragen an den SL richten, die in der Liste erscheinen.
 Wenn du eine Frage stellst, die nicht auf der Liste ist, kann der SL dich entweder bitten, eine andere zu stellen oder dir eine Antwort geben, die zu einer Frage aus der Liste passt.
 
 Es kann natürlich vorkommen, dass die Antwort auf eine Frage negativ ausfällt.
@@ -561,11 +561,11 @@ _Helfen oder Hindern_ kann zum Beispiel auch angewandt werden, um gegen _Schache
 Letzten Endes geht es darum, dass du einem anderen Spieler Steine in den Weg legen willst.
 
 Frage immer, auf welche Art und Weise der Spieler seinem Ziel _helfen_ oder es _behindern_ möchte.
-Solange er das beantworten kann, löst er den Move aus.
+Solange er das beantworten kann, löst er den Zug aus.
 Manchmal musst du als SL auch nachfragen, ob eine Einmischung stattfindet; es könnte sein, dass deine Spieler übersehen, wenn sie gegen- oder miteinander arbeiten.
 
 _Helfen_ ist etwas offensichtlicher.
-Solange ein Spieler erklären kann, auf welche Art und Weise er bei einem Move helfen will und die Erklärung Sinn macht, gestatte ihm seinen _Helfen_-Wurf.
+Solange ein Spieler erklären kann, auf welche Art und Weise er bei einem Zug helfen will und die Erklärung Sinn macht, gestatte ihm seinen _Helfen_-Wurf.
 
 Es ist egal, wie viele Leute sich in einen Wurf einmischen; das Ziel bekommt den +1-Bonus/-2-Malus nur einmal.
 Selbst wenn eine ganze Gruppe Abenteurer auf einmal ihrem Krieger helfen, den Oger anzugreifen, bekommt dieser letzten Endes trotzdem nur +1.
@@ -590,9 +590,9 @@ Wenn der Wurf erfolgreich ist, bekommst du, Ozruk, +1 auf deinen _Verteidigen_-W
 Los geht's!
 ____
 
-== Spezielle Moves
+== Spezielle Züge
 
-Spezielle Moves sind solche, die im Spielverlauf weniger häufig oder nur in bestimmten Situationen auftreten.
+Spezielle Züge sind solche, die im Spielverlauf weniger häufig oder nur in bestimmten Situationen auftreten.
 Trotzdem sind sie ein grundlegender Teil aller Dinge, die Spielercharaktere in _Dungeon World_ tun können – insbesondere dann, wenn sie nicht gerade zu epischen Abenteuern ausgezogen oder in Verliesen unterwegs sind.
 
 .Letzter Atemzug
@@ -615,7 +615,7 @@ Die Zeit steht still, während der Tod dich zu sich holt.
 Auch wenn du nicht durch das schwarze Tor schreitest, kannst du einen Blick auf das erhaschen, was dich dahinter erwartet – alte Freunde und alte Feinde, Lohn oder Strafe für vergangene und zukünftige Taten, oder noch seltsamere Ausblicke können sich darbieten.
 Dieser Moment verändert jeden, der ihn erlebt – auch die, die ihm entrinnen können.
 
-Der Move kann drei Auswirkungen haben.
+Der Zug kann drei Auswirkungen haben.
 Bei einer 10+ hast du den Tod auf bedeutsame Weise übertrumpft und bist mit etwas davongekommen, das nicht mehr rechtmäßig dir gehört.
 Der Tod hat keine Macht, das aufzuhalten, aber er wird die Kränkung nicht vergessen.
 Bei einer 7–9 sollte der SL dich vor eine Wahl mit erheblichen Konsequenzen stellen.
@@ -659,7 +659,7 @@ ____
 
 .Belastung
 ****
-*Wenn du einen Move auslöst, während du Gewicht mit dir herumträgst,* kann sich diese Belastung nachteilig auswirken.
+*Wenn du einen Zug auslöst, während du Gewicht mit dir herumträgst,* kann sich diese Belastung nachteilig auswirken.
 Wenn du…
 
 * maximal deine Traglast mit dir trägst, erhältst du keinen Malus.
@@ -670,9 +670,9 @@ Wenn du…
 Die Traglast eines Charakters wird durch seine Klasse und STÄ bestimmt.
 Mehr tragen zu können ist ein deutlicher Vorteil, wenn du Schätze aus einem Verlies schleppst – oder wenn du versuchst, genug Ausrüstung mitzubringen, um auf alles gefasst zu sein.
 
-Dieser Move trifft nur auf Gegenstände zu, mit denen du normal herumlaufen und trotzdem noch agieren kannst.
+Dieser Zug trifft nur auf Gegenstände zu, mit denen du normal herumlaufen und trotzdem noch agieren kannst.
 Einen großen Felsbrocken auf dem Rücken zu tragen ist keine _Belastung_, weil du dich damit nicht in der Lage bist, dich vernünftig zu bewegen oder andere Handlungen durchzuführen.
-Stattdessen beeinflusst es, welche Moves du in der Fiktion auslösen kannst.
+Stattdessen beeinflusst es, welche Züge du in der Fiktion auslösen kannst.
 
 .Lager aufschlagen
 ****

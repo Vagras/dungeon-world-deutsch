@@ -698,3 +698,64 @@ Deine Gefährten sind wach, aber sie hatten keine Zeit, sich vorzubereiten.
 Sie haben nichts außer ihrer Waffen und Rüstungen.
 ✴ Bei einer 6- ist das, was auch immer im Dunkeln lauert, euch gegenüber im Vorteil.
 ****
+
+.Eine gefährliche Reise antreten
+****
+*Wenn du durch feindseliges Gebiet reist,* wähle unter deinen Gefährten einen _Vorreiter_, einen _Kundschafter_ und einen _Quartiermeister_ aus.
+Jeder von ihnen würfelt+WEI.
+✴ Bei einer 10+…
+
+* reduziert der Quartiermeister die benötigten Rationen um eins
+* reduziert der Vorreiter die Reisezeit – der SL wird dir sagen, um wieviel
+* spürt der Kundschafter Ärger so schnell genug auf, dass ihr einen Vorteil daraus schlagen könnt
+
+✴ Bei einer 7–9 vollführen deine Gefährten ihren Job, wie man es erwarten würde:
+Die übliche Anzahl von Rationen wird verbraucht; die Reise dauert etwa so lange, wie man es erwarten würde; ihr könnt keinen Vorteil bei Begegnungen verbuchen, werdet selbst aber auch nicht überrascht.
+****
+
+Du kannst einem Charakter nicht mehr als eine Aufgabe zuweisen.
+Wenn ihr nicht genug Leute seid oder nicht alle Aufgaben verteilen wollt, werden die nicht zugewiesenen Aufgaben als Fehlschlag (6-) behandelt.
+
+Entfernungen in _Dungeon World_ werden in Rationen gemessen.
+Eine Ration ist die Menge an Vorräten, die ihr pro Tag benötigt.
+Eine Reise dauert länger, je weiter das Ziel und je unwegsamer das Gelände ist.
+
+Eine _gefährliche Reise_ ist dabei die komplette Strecke zwischen zwei Orten.
+Du würfelst nicht für die Strecke, die du am ersten Tag zurückgelegt hast, legst dich schlafen und würfelst nochmal für den nächsten Tag.
+Würfle einmal für die ganze Reise.
+
+Dieser Zug kann nur ausgelöst werden, wenn du das Ziel der Reise kennst.
+Wenn du nur ausziehst, um die Umgebung zu erkunden, dann ist keine _gefährliche Reise_, sondern Wandern mit dem Ziel, etwas Interessantes zu entdecken.
+Verbrauche in diesem Fall einfach Rationen, wenn du dein Lager aufschlägst.
+Der SL wird mehr Details über die Welt preisgeben, sobald du etwas entdeckt hast.
+
+.Das war's für heute
+****
+*Wenn du am Ende der Spielsitzung angelangt bist,* wähle eine deiner Bande, von der du findest, dass sie aufgelöst ist (ausgereizt, nicht mehr relevant, oder anderes).
+Frage den Spieler des Charakters, mit dem du die Bande geschlossen hast, ob er oder sie dir zustimmt.
+Wenn ja, schreibe dir einen EP gut und schließe eine neue Bande, mit wem du willst.
+
+Sobald du damit fertig bist, überprüfe deine Gesinnung.
+Wenn du im Laufe dieser Sitzung wenigstens einmal entspreched deiner Gesinnung gehandelt hast, schreibe dir einen EP gut.
+Dann beantwortet folgende Fragen in der Gruppe:
+
+* Haben wir etwas Neues und Wesentliches über die Welt in Erfahrung gebracht?
+* Haben wir einen mächtigen Feind oder ein Monster überwunden?
+* Haben wir einen denkwürdigen Schatz gehoben?
+
+Schreibe dir für jede Frage, die du mit "Ja" beantworten kannst, einen EP gut.
+****
+
+.Stufe aufsteigen
+****
+*Wenn du dir eine Auszeit von mehreren Stunden oder Tagen nehmen kannst und mindestens `Stufe + 7` EP hast,* kannst du über deine Erfahrungen reflektieren und deine Fähigkeiten vervollkommnen.
+
+* Reduziere deine EP um `Stufe + 7`.
+* Erhöhe deine Stufe um 1.
+* Wähle einen neuen Zug von deiner Klassenliste.
+* Wenn du der Zauberkundige bist, füge deinem Zauberbuch einen neuen Zauber hinzu.
+* Wähle eines deiner Attribute und erhöhe es um 1.
+Dies könnte deinen Modifikator verändern.
+Das Ändern deiner Konstitution verändert außerdem deine maximalen und momentanen TP.
+Attribute können bis auf einen Wert von 18 gesteigert werden.
+****

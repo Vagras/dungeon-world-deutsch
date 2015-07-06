@@ -759,3 +759,79 @@ Dies könnte deinen Modifikator verändern.
 Das Ändern deiner Konstitution verändert außerdem deine maximalen und momentanen TP.
 Attribute können bis auf einen Wert von 18 gesteigert werden.
 ****
+
+.Zechen
+****
+*Wenn du siegreich zurückkehrst und ein großes Gelage schmeißt,* gib 100 Münzen aus und würfle+1 pro 100 Münzen, die du zusätzlich ausgibst.
+✴ Bei einer 10+ wähle 3.
+✴ Bei einer 7–9 wähle 1.
+✴ Bei einer 6- wähle ebenfalls 1, aber die Sache wird richtig aus dem Ruder laufen – der SL beschreibt dir, wie.
+
+* Du schließt Freundschaft mit jemandem, der sich als nützlich erweisen kann.
+* Du hörst Gerüchte über eine günstige Gelegenheit.
+* Dir kommen nützliche Informationen zu Ohren.
+* Du wirst nicht verzaubert, übers Ohr gehauen oder in etwas verwickelt.
+****
+
+Du kannst nur _Zechen_, wenn du siegreich zurückkehrst.
+Der Sieg ist das, was die Bewunderer dazu bringt, sich um Abenteurer zu scharen, wenn diese ihren neuesten Beutezug feiern.
+Wenn du deinen Sieg nicht bekannt machst, wer würde dann schon mit dir zechen wollen?
+
+.Besorgungen machen
+****
+*Wenn du Geld gegen Ware tauschen willst* und die Ware in der Siedlung, in der du dich aufhältst, problemlos aufzutreiben ist, kannst du die Ware zum Listenpreis kaufen.
+Wenn sie etwas besonderes ist – etwas, was verzaubert oder hier normalerweise nicht erhältlich ist –, würfle+CHA.
+✴ Bei einer 10+ findest du, was du suchst, zu einem angemessenen Preis.
+✴ Bei einer 7–9 musst du mehr zahlen oder dich mit etwas begnügen, das nicht ganz dem enspricht, was du eigentlich haben wolltest.
+Der SL wird dir deine Optionen aufzählen.
+****
+
+.Zu Kräften kommen
+****
+*Wenn du in Ruhe und Sicherheit bist und nichts tust, außer dich zu erholen,* erhältst du nach einem vollen Ruhetag deine gesamten TP wieder.
+Nach drei Ruhetagen darfst du eine Beeinträchtigung entfernen.
+Wenn du unter der Pflege eines Heilers stehst – magisch oder mondän –, darfst du stattdessen alle zwei Ruhetage eine Beeinträchtigung entfernen.
+****
+
+.Anwerben
+****
+*Wenn du verbreitest, dass du nach bezahlter Hilfe suchst,* würfle…
+
+* +1, wenn du erwähnst, dass die Bezahlung großzügig ausfällt,
+* +1, wenn du beschreibst, was du vorhast,
+* +1, wenn du bekanntgibst, dass er/sie an der Beute beteiligt wird/werden,
+* +1, wenn du einen guten Ruf in der Gegend hast.
+
+✴ Bei einer 10+ kannst du aus einer Anzahl fähiger Anwärter wählen.
+Du bekommst keine Strafen für Leute, die du abweist.
+✴ Bei einer 7–9 wirst du dich mit jemandem begnügen müssen, der/die deinen Anforderungen nur teilweise entspricht/entsprechen.
+✴ Bei einer 6- wird jemand ungeeignetes, aber einflussreiches verkünden, dass er sich dir anschließen will (ein tollkühner Halbstarker, ein Wolf im Schafspelz, ein Feind im Verborgenen oder ähnliches).
+Nimm ihn und lebe mit den Konsequenzen oder weise ihn ab.
+Wenn du ihn abweist, erhältst du -1 voraus auf _Anwerben_.
+****
+
+.Steckbrief
+****
+*Wenn du in einen Hort der Zivilisation zurückkehrst, in dem du Ärger verursacht hast,* würfle+CHA.
+✴ Bei einer 10+ hat es sich herumgesprochen und dein Gesicht ist jedem bekannt.
+✴ Bei einer 7–9 ebenso, aber der SL wählt eine Komplikation:
+
+* Die örtliche Wache hat eine Belohnung auf deine Ergreifung ausgeschrieben.
+* Jemand hat ein Kopfgeld auf dich ausgesetzt.
+* Jemand, der dir wichtig ist, sitzt als Folge deiner Taten in der Klemme.
+****
+
+Dieser Zug ist nur für Orte, in denen du schon einmal Ärger hattest, nicht für jeden Flecken Zivilisation, den du betrittst.
+Er wird auch dann ausgelöst, wenn du öffentlich sichtbar in die Schwierigkeiten eines anderen verwickelt bist.
+
+Als "Zivilisation" gelten die Dörfer und Städte von Menschen, Elfen, Zwergen und Halblingen; der Begriff kann aber zum Beispiel auch auf jede vergleichsweise rechtschaffene Niederlassung von Monsterrassen wie Orks oder Goblins zutreffen.
+Solange deine Gruppe sich an einem Ort niedergelassen und dort am Gemeindeleben teilgenommen hat, zählt der Ort im Rahmen dieses Zuges als Zivilisation.
+
+.Wappnen
+****
+*Wenn du deine Zeit mit dem Studium deiner Schriften, der Meditation oder hartem Training verbringst,* erhältst du Vorbereitung.
+Wenn du dich eine Woche oder länger _wappnest_, bekommst du 1 Vorbereitung.
+Wenn du stattdessen einen Monat oder länger darauf verwendest, bekommst du 3.
+Wenn deine Vorbereitung sich auszahlt, kannst du 1 Vorbereitung für einen +1-Bonus auf einen beliebigen Wurf eintauschen.
+Du kannst nur 1 Vorbereitung pro Wurf ausgeben.
+****

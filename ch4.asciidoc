@@ -547,3 +547,45 @@ Er wirkt, als hasse er seinen Job und wünschte, er wäre woanders.
 Wenn du _schachern_ willst, brauchst du eine Art von Druckmittel.
 Vielleicht hilft ein bisschen Schmiere?
 ____
+
+.Helfen oder Hindern
+****
+*Wenn du jemanden unterstützen oder von etwas abhalten willst,* würfle+Bande.
+✴ Bei einer 10+ bekommt er +1 oder -2 auf seinen Wurf, ganz wie du willst.
+✴ Bei einer 7–9 bekommt er +1 oder -2, aber du setzt dich dabei seiner Vergeltung oder einer anderen Gefahr aus, oder dein Eingreifen hat einen Preis.
+****
+
+Wann immer du das Gefühl hast, dass Spieler gegeneinander würfeln sollten, sollte der Verteidiger den Angreifer _behindern_.
+Das muss nicht immer bedeuten, dass er ihn und seine Pläne sabotieren will.
+_Helfen oder Hindern_ kann zum Beispiel auch angewandt werden, um gegen _Schachern_ zu argumentieren, oder wenn du dich als schwer durchschaubarer, gerissener Bursche inszenieren willst.
+Letzten Endes geht es darum, dass du einem anderen Spieler Steine in den Weg legen willst.
+
+Frage immer, auf welche Art und Weise der Spieler seinem Ziel _helfen_ oder es _behindern_ möchte.
+Solange er das beantworten kann, löst er den Move aus.
+Manchmal musst du als SL auch nachfragen, ob eine Einmischung stattfindet; es könnte sein, dass deine Spieler übersehen, wenn sie gegen- oder miteinander arbeiten.
+
+_Helfen_ ist etwas offensichtlicher.
+Solange ein Spieler erklären kann, auf welche Art und Weise er bei einem Move helfen will und die Erklärung Sinn macht, gestatte ihm seinen _Helfen_-Wurf.
+
+Es ist egal, wie viele Leute sich in einen Wurf einmischen; das Ziel bekommt den +1-Bonus/-2-Malus nur einmal.
+Selbst wenn eine ganze Gruppe Abenteurer auf einmal ihrem Krieger helfen, den Oger anzugreifen, bekommt dieser letzten Endes trotzdem nur +1.
+
+____
+SL: Ozruk, du stehst einsam und blutverschmiert vor einem Pack aufgebrachter Höllenhunde.
+Hinter dir kauert der Prinz von Lescia, und er weint in seiner Todesangst.
+
+Ozruk: Ich wappne mich und hebe meinen Schild.
+Ich werde meine Pflicht tun und den kleinen Prinzen verteidigen, und wenn es das letzte ist, was ich tue.
+
+Aronwe: Ich trete aus dem Schatten und ziehe mein Schwert!
+"Noch sind wir nicht geschlagen, Zwerg!"
+Ich stehe ihm bei und will ihm beim _Verteidigen_ _helfen_.
+"Wir mögen Fremde sein, aber ich habe euch kämpfen sehen, Ozruk.
+Wenn wir heute sterben, dann als Brüder in der Schlacht!"
+Ich habe keine Bande mit ihm, aber ich will es trotzdem versuchen.
+
+SL: Das war wirklich bewegend.
+Okay, würfle+0.
+Wenn der Wurf erfolgreich ist, bekommst du, Ozruk, +1 auf deinen _Verteidigen_-Wurf.
+Los geht's!
+____

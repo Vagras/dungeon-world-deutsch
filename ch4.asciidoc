@@ -656,3 +656,45 @@ Wie lautet deine Antwort, kleine Diebin?"
 
 Sparrow: (schluck)
 ____
+
+.Belastung
+****
+*Wenn du einen Move auslöst, während du Gewicht mit dir herumträgst,* kann sich diese Belastung nachteilig auswirken.
+Wenn du…
+
+* maximal deine Traglast mit dir trägst, erhältst du keinen Malus.
+* bis zu deiner Traglast+2 mit dir trägst, erhältst du -1 fortlaufend, bis du dich von deiner Last befreist.
+* mehr als deine Traglast+2 mit dir trägst, hast du die Wahl: Lasse etwas mit einem Gewicht von 1 oder mehr fallen oder dein Wurf schlägt automatisch fehl.
+****
+
+Die Traglast eines Charakters wird durch seine Klasse und STÄ bestimmt.
+Mehr tragen zu können ist ein deutlicher Vorteil, wenn du Schätze aus einem Verlies schleppst – oder wenn du versuchst, genug Ausrüstung mitzubringen, um auf alles gefasst zu sein.
+
+Dieser Move trifft nur auf Gegenstände zu, mit denen du normal herumlaufen und trotzdem noch agieren kannst.
+Einen großen Felsbrocken auf dem Rücken zu tragen ist keine _Belastung_, weil du dich damit nicht in der Lage bist, dich vernünftig zu bewegen oder andere Handlungen durchzuführen.
+Stattdessen beeinflusst es, welche Moves du in der Fiktion auslösen kannst.
+
+.Lager aufschlagen
+****
+*Wenn du dich zur Ruhe niederlässt,* verbrauche eine Ration.
+Wenn du an einem gefährlichen Ort rastest, lege außerdem die Wachen fest.
+Falls du genügend EP hast, darfst du eine Stufe aufsteigen.
+Solange du wenigstens ein paar Stunden durchgehend schlafen konntest, heile die Hälfte deiner maximalen Trefferpunkte an Schaden.
+****
+
+Du schlägst dein Lager normalerweise auf, um anderen Tätigkeiten nachzugehen – Zaubersprüche lernen beispielsweise, oder zu deinem Gott beten.
+Oder, du weißt schon, ausschlafen.
+Wann immer du für eine oder zwei Stunden anhältst, um zu Atem zu kommen, _schlägst_ du wahrscheinlich dein _Lager auf_.
+
+Du _schlägst_ auch dann dein _Lager auf_, wenn du in einem Gasthaus oder Herberge unterkommst.
+Du heilst ganz normal Trefferpunkte, aber deine Rationen verbrauchst du nur dann, wenn du sie von dem Essen nimmst, das du selbst mitgebracht hast – nicht, wenn du für dein Essen bezahlt hast oder umsonst bewirtet wurdest.
+
+.Wache halten
+****
+*Wenn du Wachdienst hast und sich etwas dem Lager nähert,* würfle+WEI.
+✴ Bei einer 10+ gelingt es dir, das Lager zu wecken und bereitzumachen; jeder im Lager erhält +1 vorwärts.
+✴ Bei einer 7–9 hast du einen Moment zu spät reagiert:
+Deine Gefährten sind wach, aber sie hatten keine Zeit, sich vorzubereiten.
+Sie haben nichts außer ihrer Waffen und Rüstungen.
+✴ Bei einer 6- ist das, was auch immer im Dunkeln lauert, euch gegenüber im Vorteil.
+****

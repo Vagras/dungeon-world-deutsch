@@ -15,7 +15,7 @@ Bond: Bande (Mehrzahl von Band), wie in "Bande knüpfen". Klingt ein bisschen al
 
 == Moves
 
-Spout Lore: Wissen verkünden, klugscheißen
+Spout Lore: Wissen verkünden, klugscheißen, Weisheiten kundtun
 Discern Realities: Tatsachen aufdecken, Fakten aufdecken,
 Parley: Schachern, Verhandeln
 Aid or Interfere: Helfen oder Hindern
@@ -23,7 +23,7 @@ Last Breath: Letzter Odem, Letzter Atemzug, Mit letzter Kraft
 Encumbrance: Belastung
 Make Camp: Rast machen, das Lager aufschlagen, Rasten
 Take Watch: Die Wache stellen, Wache halten
-Undertake a Perilous Journey: Eine gefährliche Reise unternehmen
+Undertake a Perilous Journey: Zu einer gefährlichen/gefahrvollen/tückischen Reise aufbrechen, eine XXX Reise antreten/auf sich nehmen/unternehmen/machen/antreten
 End of Session: Sitzungsende, die Sitzung beenden
 Level Up: Stufe aufsteigen
 Carouse: Zechen, ein Gelage feiern/halten

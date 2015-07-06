@@ -7,4 +7,4 @@ Die Übersetzung ist lizensiert nach Creative Commons Attribution 4.0 Internatio
 # Mitwirkende
 
 Einige Namen für Züge sind aus der [Diskussion](http://www.tanelorn.net/index.php/topic,85578.0.html) zur Übersetzung von DW aus dem [Tanelorn-Forum](http://www.tanelorn.net) übernommen.
-Einzelne Begriffe ("Zug", "+1 fortlaufend", "+1 voraus") sind der [Übersetzung](https://github.com/semiomant/Dungeon-World) von [@semiomant](https://github.com/semiomant) entnommen.
+Einzelne Begriffe ("Zug", "+1 fortlaufend", "+1 voraus", "Weisheit kundtun") sind der [Übersetzung](https://github.com/semiomant/Dungeon-World) von [@semiomant](https://github.com/semiomant) entnommen.

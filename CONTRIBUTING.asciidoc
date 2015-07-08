@@ -3,140 +3,7 @@
 Zunächst einmal vielen herzlichen Dank für deine Hilfe!
 Um "Kleinarbeit" für alle Beteiligten zu vermeiden, beachte bitte ein paar Punkte, wenn du bei der Übersetzung helfen willst.
 
-=== Übersetzungen für häufige Begriffe
-
-Manche Begriffe tauchen immer wieder auf.
-Für die häufigsten von ihnen sind hier die Übersetzungen.
-
-.Begriffe mit Übersetzungen
-|===
-|Begriff | Übersetzung
-
-|Ability
-|Attribut
-
-|Alignment
-|Gesinnung
-
-|b[2d6]
-|b[2W6]
-
-|Bond
-|Bande (Mehrzahl von _Band_)
-
-|Debility
-|Beeinträchtigung
-
-|Experience (XP)
-|Erfahrung (EP)
-
-|+1 forward
-|+1 voraus
-
-|gear
-|Ausrüstung
-
-|Hireling
-|Mietling
-
-|Hitpoints (HP)
-|Trefferpunkte (TP)
-
-|1 hold
-|1 Reserve
-
-|Level (character)
-|Stufe
-
-|Modifier
-|Modifikator (oder, je nach Kontext, Bonus oder Malus)
-
-|Move
-|Zug
-
-|+1 ongoing
-|+1 fortlaufend
-
-|skill
-|Fähigkeit
-
-|stats
-|Attribute
-
-|w[2d6]
-|s[2W6]
-|===
-
-.Attribute
-|===
-|Begriff (Modifikator) |Übersetzung (Übersetzung des Modifikators)
-
-|Strength (Str)
-|Stärke (Stä)
-
-|Constitution (Con)
-|Konstitution (Kon)
-
-|Dexterity (Dex)
-|Geschicklichkeit (Ges)
-
-|Intelligence (Int)
-|Intelligenz (Int)
-
-|Wisdom (Wis)
-|Weisheit (Wei)
-
-|Charisma (Cha)
-|Charisma (Cha)
-|===
-
-.Debilities (Beeinträchtigungen)
-|===
-|Begriff |Übersetzung
-
-|confused
-|verwirrt
-
-|scarred
-|entstellt
-
-|shaky
-|wackelig
-
-|sick
-|übel
-
-|stunned
-|benommen
-
-|weak
-|schwach
-|===
-
-.Alignments (Gesinnungen)
-|===
-|Begriff |Übersetzung
-
-|chaotic
-|chaotisch
-
-|evil
-|böse
-
-|good
-|gut
-
-|lawful
-|rechtschaffen
-
-|neutral
-|neutral
-
-|===
-
-=== Stilfragen
-
-==== Fließtext
+=== Fließtext
 
 Bitte fange für jeden Satz eine neue Zeile an.
 Dies dient dazu, die Erkennung von geänderten Satzteilen in Diffs zu erleichtern.
@@ -144,13 +11,13 @@ Dies dient dazu, die Erkennung von geänderten Satzteilen in Diffs zu erleichter
 Wenn du Eigennamen von Regelkonstrukten (in erster Linie die Namen von Zügen oder Beeinträchtigungen) im Fließtext benutzt, umgebe sie bitte `_mit Unterstrichen_`, damit sie kursiv gerendert werden und als dedizierte Regeln wahrgenommen werden.
 Ein paar Beispiele dafür kannst du in den https://github.com/runiq/dungeon-world-deutsch/blob/master/ch4.asciidoc#grundlegende-züge-1[Erläuterungen zu _Hauen und Stechen_] finden.
 
-==== Überschriften
+=== Überschriften
 
 Überschriften sollten mit Ebene 2 anfangen (`==`); Ebene 1 ist in Asciidoc dem Dokumenttitel vorbehalten.
 Das "Überspringen" von Überschriftenebenen (z.B. `====` direkt nach `==`) ist in Asciidoc ebenfalls nicht erlaubt.
 Ansonsten gehe einfach so vor wie im http://book.dwgazetteer.com[Quelldokument] angegeben – wenn dort Überschriften übersprungen werden, mach einfach, wie du es für richtig hältst.
 
-==== Züge
+=== Züge
 
 Die Beschreibungen von Zügen werden folgendermaßen gebaut:
 

@@ -1,0 +1,131 @@
+
+== Übersetzungen für häufige Begriffe
+
+Manche Begriffe tauchen immer wieder auf.
+Für die häufigsten von ihnen sind hier die Übersetzungen.
+
+.Begriffe mit Übersetzungen
+|===
+|Begriff | Übersetzung
+
+|Ability
+|Attribut
+
+|Alignment
+|Gesinnung
+
+|b[2d6]
+|b[2W6]
+
+|Bond
+|Bande (Mehrzahl von _Band_)
+
+|Debility
+|Beeinträchtigung
+
+|Experience (XP)
+|Erfahrung (EP)
+
+|+1 forward
+|+1 voraus
+
+|gear
+|Ausrüstung
+
+|Hireling
+|Mietling
+
+|Hitpoints (HP)
+|Trefferpunkte (TP)
+
+|1 hold
+|1 Reserve
+
+|Level (character)
+|Stufe
+
+|Modifier
+|Modifikator (oder, je nach Kontext, Bonus oder Malus)
+
+|Move
+|Zug
+
+|+1 ongoing
+|+1 fortlaufend
+
+|skill
+|Fähigkeit
+
+|stats
+|Attribute
+
+|w[2d6]
+|s[2W6]
+|===
+
+.Attribute
+|===
+|Begriff (Modifikator) |Übersetzung (Übersetzung des Modifikators)
+
+|Strength (Str)
+|Stärke (Stä)
+
+|Constitution (Con)
+|Konstitution (Kon)
+
+|Dexterity (Dex)
+|Geschicklichkeit (Ges)
+
+|Intelligence (Int)
+|Intelligenz (Int)
+
+|Wisdom (Wis)
+|Weisheit (Wei)
+
+|Charisma (Cha)
+|Charisma (Cha)
+|===
+
+.Debilities (Beeinträchtigungen)
+|===
+|Begriff |Übersetzung
+
+|confused
+|verwirrt
+
+|scarred
+|entstellt
+
+|shaky
+|wackelig
+
+|sick
+|übel
+
+|stunned
+|benommen
+
+|weak
+|schwach
+|===
+
+.Alignments (Gesinnungen)
+|===
+|Begriff |Übersetzung
+
+|chaotic
+|chaotisch
+
+|evil
+|böse
+
+|good
+|gut
+
+|lawful
+|rechtschaffen
+
+|neutral
+|neutral
+
+|===

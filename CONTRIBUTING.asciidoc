@@ -24,17 +24,8 @@ Für die häufigsten von ihnen sind hier die Übersetzungen.
 |Bond
 |Bande (Mehrzahl von _Band_)
 
-|chaotic (alignment)
-|chaotisch (Gesinnung)
-
-|confused (debility)
-|verwirrt (Beeinträchtigung)
-
 |Debility
 |Beeinträchtigung
-
-|evil (alignment)
-|böse (Gesinnung)
 
 |Experience (XP)
 |Erfahrung (EP)
@@ -45,9 +36,6 @@ Für die häufigsten von ihnen sind hier die Übersetzungen.
 |gear
 |Ausrüstung
 
-|good (alignment)
-|gut (Gesinnung)
-
 |Hireling
 |Mietling
 
@@ -56,9 +44,6 @@ Für die häufigsten von ihnen sind hier die Übersetzungen.
 
 |1 hold
 |1 Reserve
-
-|lawful (alignment)
-|rechtschaffen (Gesinnung)
 
 |Level (character)
 |Stufe
@@ -69,20 +54,8 @@ Für die häufigsten von ihnen sind hier die Übersetzungen.
 |Move
 |Zug
 
-|neutral (alignment)
-|neutral (Gesinnung)
-
 |+1 ongoing
 |+1 fortlaufend
-
-|scarred (debility)
-|entstellt (Beeinträchtigung)
-
-|shaky (debility)
-|wackelig (Beeinträchtigung)
-
-|sick (debility)
-|übel (wie in "mir ist übel", als Beeinträchtigung)
 
 |skill
 |Fähigkeit
@@ -90,14 +63,8 @@ Für die häufigsten von ihnen sind hier die Übersetzungen.
 |stats
 |Attribute
 
-|stunned (debility)
-|benommen (Beeinträchtigung)
-
 |w[2d6]
 |s[2W6]
-
-|weak (debility)
-|schwach (als Beeinträchtigung)
 |===
 
 .Attribute
@@ -121,6 +88,47 @@ Für die häufigsten von ihnen sind hier die Übersetzungen.
 
 |Charisma (Cha)
 |Charisma (Cha)
+|===
+
+.Debilities (Beeinträchtigungen)
+|===
+|Begriff |Übersetzung
+|confused
+|verwirrt
+
+|scarred
+|entstellt
+
+|shaky
+|wackelig
+
+|sick
+|übel
+
+|stunned
+|benommen
+
+|weak
+|schwach
+|===
+
+.Alignments (Gesinnungen)
+|===
+|chaotic
+|chaotisch
+
+|evil
+|böse
+
+|good
+|gut
+
+|lawful
+|rechtschaffen
+
+|neutral
+|neutral
+
 |===
 
 === Stilfragen

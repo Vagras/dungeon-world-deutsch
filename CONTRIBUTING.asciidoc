@@ -93,6 +93,7 @@ Für die häufigsten von ihnen sind hier die Übersetzungen.
 .Debilities (Beeinträchtigungen)
 |===
 |Begriff |Übersetzung
+
 |confused
 |verwirrt
 
@@ -114,6 +115,8 @@ Für die häufigsten von ihnen sind hier die Übersetzungen.
 
 .Alignments (Gesinnungen)
 |===
+|Begriff |Übersetzung
+
 |chaotic
 |chaotisch
 
@@ -146,9 +149,9 @@ Ansonsten gehe einfach so vor wie im http://book.dwgazetteer.com[Quelldokument] 
 
 ==== Züge
 
-Wenn du den Namen eines Zuges im Fließtext nennen willst, benutze `_Unterstriche um den Movenamen_`, damit der Zug kursiv geschrieben und als Eigenname erkannt wird.
+Wenn du den Namen eines Zuges im Fließtext nennen willst, benutze `_Unterstriche um den Zugnamen_`, damit der Zug kursiv geschrieben und als Eigenname erkannt wird.
 
-Moves/Züge werden folgendermaßen gebaut:
+Die Beschreibungen von Zügen werden folgendermaßen gebaut:
 
 ----
 *Flimmen und Flommen*
@@ -172,11 +175,11 @@ Daraus wird dann:
 
 '''
 
-Beachte dabei folgende Teile:
+Beachte dabei Folgendes:
 
-* Der Move-Name sollte fett sein.
+* Der Name des Zuges sollte fett sein.
 Eine Überschrift hat sich an der Stelle nicht bewährt.
-* Die Bedingung, unter der der Move ausgelöst wird, sollte ebenfalls fett sein, damit sie auf den ersten Blick ersichtlich ist.
-* Die Sterne vor den einzelnen Punkten sind keine echten Aufzählungszeichen (`*` am Zeilenanfang werden in Asciidoc als Aufzählungen gerendert), sondern achtarmige Sterne (Unicode: http://unicode-table.com/de/2734[_eight pointed black star_]).
+* Die Bedingung, unter der der Zug ausgelöst wird, sollte ebenfalls fett sein, damit sie auf den ersten Blick ersichtlich ist.
+* Die Sterne vor den einzelnen Punkten sind keine echten Aufzählungszeichen (`*` am Zeilenanfang werden in Asciidoc als Aufzählungen gerendert), sondern achtzackige Sterne (Unicode: http://unicode-table.com/de/2734[_eight pointed black star_]).
 Das sind dieselben Zeichen, die auch im Originaltext verwendet werden.
 * Vor den horizontalen Linien (`'''`) bitte eine Leerzeile lassen, weil die Linien sonst nicht gerendert werden.

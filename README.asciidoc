@@ -8,7 +8,8 @@ Die Übersetzung ist lizensiert nach Creative Commons Attribution 4.0 Internatio
 
 Vielen lieben Dank fürs Helfen! :)
 Um allen Beteiligten das Leben so einfach wie möglich zu machen, lies bitte erst https://github.com/runiq/dungeon-world-deutsch/blob/master/CONTRIBUTING.asciidoc[CONTRIBUTING].
-Dort sind die Übersetzungen, die hier benutzt werden, sowie einige Stilrichtlinien aufgeführt, an die ich mich zu halten versuche.
+Dort sind einige Stilrichtlinien aufgeführt, an die ich mich zu halten versuche.
+Damit bestimmte DW-eigene Begriffe einheitlich übersetzt werden, lies bitte auch https://github.com/runiq/dungeon-world-deutsch/blob/master/Übersetzungen.asciidoc[Übersetzungen].
 
 == Mitwirkende
 

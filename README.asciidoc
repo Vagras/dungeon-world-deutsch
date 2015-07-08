@@ -4,6 +4,12 @@ Dies ist meine Übersetzung von http://www.dungeon-world.com[Dungeon World]. Ich
 
 Die Übersetzung ist lizensiert nach Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0[CC BY 4.0]).
 
+== Helfen
+
+Vielen lieben Dank fürs Helfen! :)
+Um allen Beteiligten das Leben so einfach wie möglich zu machen, lies bitte erst https://github.com/runiq/dungeon-world-deutsch/blob/master/CONTRIBUTING.asciidoc[CONTRIBUTING].
+Dort sind die Übersetzungen, die hier benutzt werden, sowie einige Stilrichtlinien aufgeführt, an die ich mich zu halten versuche.
+
 == Mitwirkende
 
 Einige Namen für Züge sind aus der http://www.tanelorn.net/index.php/topic,85578.0.html[Diskussion] zur Übersetzung von DW aus dem http://www.tanelorn.net[Tanelorn-Forum] übernommen.

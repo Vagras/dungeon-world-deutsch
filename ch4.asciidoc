@@ -18,7 +18,7 @@ Einige Züge werden begleitet von einer kurzen Erläuterung ihrer Nutzung und ei
 
 === Grundlegende Züge
 
-====  Hauen und Stechen
+*Hauen und Stechen*
 
 '''
 *Wenn du einen Gegner im Nahkampf angreifst,* würfle+STÄ.
@@ -103,7 +103,7 @@ Er sackt Blut spuckend zu Boden, aber der Alarm der Wache dringt in deine Ohren.
 Was machst du?
 ____
 
-==== Salve
+*Salve*
 
 '''
 *Wenn du zielst und im Fernkampf auf einen Gegner schießt,* würfle+GES.
@@ -167,7 +167,7 @@ Okay, du bist noch kein Brei – der Oger baut sich drohend hinter dir auf und s
 Was machst du?
 ____
 
-==== Gefahr trotzen
+*Gefahr trotzen*
 
 '''
 *Wenn du trotz einer unmittelbaren Gefahr handelst oder ein drohendes Unheil hinnehmen musst*, beschreibe, wie du damit umgehst, und würfle.
@@ -260,7 +260,7 @@ Ich glaube, ich brauche noch einen Kaffee.
 _Hauen und Stechen_ dann bitte, mach deinen Zug!
 ____
 
-==== Verteidigen
+*Verteidigen*
 
 '''
 *Wenn du eine Person, einen Gegenstand oder einen Ort vor Angriffen bewahren willst,* würfle+KON.
@@ -345,7 +345,7 @@ Hadrian: Na gut, ich schätze, ich stehe ihr nicht mehr "zur Seite".
 Vergiss es, Durga, du bist auf dich allein gestellt!
 ____
 
-==== Weisheit kundtun
+*Weisheit kundtun*
 
 '''
 *Wenn du dein angesammeltes Wissen über etwas konsultierst*, würfle+INT.
@@ -415,7 +415,7 @@ Ich wette, wenn du einen Zauber in den Schädel hineinzauberst, wird er zu einem
 Vitus: Magische Geschosse des Feuers – hurra!
 ____
 
-==== Tatsachen aufdecken
+*Tatsachen aufdecken*
 
 '''
 *Wenn du eine Situation oder Person eingehend studierst,* würfle+WEI.
@@ -484,7 +484,7 @@ Omar: Also haben die Goblins sie entweder von der anderen Seite verschlossen, od
 SL: Bingo.
 ____
 
-==== Schachern
+*Schachern*
 
 '''
 *Wenn du ein Druckmittel gegen jemanden in der Hand hast und ihn damit manipulierst,* würfle+CHA.
@@ -564,7 +564,7 @@ Wenn du _schachern_ willst, brauchst du eine Art von Druckmittel.
 Vielleicht hilft ein bisschen Schmiere?
 ____
 
-==== Helfen oder Hindern
+*Helfen oder Hindern*
 
 '''
 *Wenn du jemanden unterstützen oder von etwas abhalten willst,* würfle+Bande.
@@ -613,7 +613,7 @@ ____
 Spezielle Züge sind solche, die im Spielverlauf weniger häufig oder nur in bestimmten Situationen auftreten.
 Trotzdem sind sie ein grundlegender Teil dessen, was Spielercharaktere in _Dungeon World_ tun können – insbesondere dann, wenn sie nicht gerade zu epischen Abenteuern ausgezogen oder in Verliesen unterwegs sind.
 
-==== Letzter Atemzug
+*Letzter Atemzug*
 
 '''
 *Wenn du stirbst,* kannst du einen Blick auf das erhaschen, was jenseits des schwarzen Tores liegt.
@@ -677,7 +677,7 @@ Wie lautet deine Antwort, kleine Diebin?"
 Sparrow: (schluck)
 ____
 
-==== Belastung
+*Belastung*
 
 '''
 *Wenn du einen Zug machst, während du Gewicht mit dir herumträgst,* kann sich diese Belastung nachteilig auswirken.
@@ -696,7 +696,7 @@ Dieser Zug trifft nur auf Gegenstände zu, mit denen du normal herumlaufen und t
 Einen großen Felsbrocken auf dem Rücken zu tragen ist keine _Belastung_, weil du dich damit nicht in der Lage bist, dich vernünftig zu bewegen oder andere Handlungen durchzuführen.
 Stattdessen beeinflusst es, welche Züge du in der Fiktion auslösen kannst.
 
-==== Lager aufschlagen
+*Lager aufschlagen*
 
 '''
 *Wenn du dich zur Ruhe niederlässt,* verbrauche eine Ration.
@@ -713,7 +713,7 @@ Wann immer du für eine oder zwei Stunden anhältst, um zu Atem zu kommen, _schl
 Du _schlägst_ auch dann dein _Lager auf_, wenn du in einem Gasthaus oder Herberge unterkommst.
 Du heilst ganz normal Trefferpunkte, aber Rationen verbrauchst du nur dann, wenn du sie von dem Essen nimmst, das du selbst mitgebracht hast – nicht, wenn du für dein Essen bezahlt hast oder umsonst bewirtet wurdest.
 
-==== Wache halten
+*Wache halten*
 
 '''
 *Wenn du Wachdienst hast und sich etwas deinem Lager nähert,* würfle+WEI.
@@ -726,7 +726,7 @@ Sie haben nichts außer ihrer Waffen und Rüstungen.
 
 '''
 
-==== Eine gefährliche Reise antreten
+*Eine gefährliche Reise antreten*
 
 '''
 *Wenn du durch feindseliges Gebiet reist,* wähle unter deinen Gefährten einen _Vorreiter_, einen _Kundschafter_ und einen _Quartiermeister_.
@@ -758,7 +758,7 @@ Wenn du nur ausziehst, um die Umgebung zu erkunden, dann ist keine _gefährliche
 Verbrauche in diesem Fall einfach Rationen, wenn du dein Lager aufschlägst.
 Der SL wird mehr Details über die Welt preisgeben, sobald du etwas entdeckt hast.
 
-==== Das war's für heute
+*Das war's für heute*
 
 '''
 *Wenn du am Ende der Spielsitzung angelangt bist,* wähle eine deiner Bande, von der du findest, dass sie aufgelöst ist (ausgereizt, nicht mehr relevant, oder anderes).
@@ -777,7 +777,7 @@ Schreibe dir für jede Frage, die du mit "Ja" beantworten kannst, einen EP gut.
 
 '''
 
-==== Stufe aufsteigen
+*Stufe aufsteigen*
 
 '''
 *Wenn du mehrere Stunden oder Tage Ruhe und mindestens `Stufe + 7` EP hast,* kannst du über deine Erfahrungen reflektieren und deine Fähigkeiten vervollkommnen.
@@ -793,7 +793,7 @@ Attribute können bis auf einen Maximalwert von 18 gesteigert werden.
 
 '''
 
-==== Zechen
+*Zechen*
 
 '''
 *Wenn du siegreich zurückkehrst und ein großes Gelage schmeißt,* gib 100 Münzen aus und würfle+1 pro 100 Münzen, die du zusätzlich ausgibst.
@@ -812,7 +812,7 @@ Du kannst nur _Zechen_, wenn du siegreich zurückkehrst.
 Der Sieg ist das, was die Bewunderer dazu bringt, sich um Abenteurer zu scharen, wenn diese gerade ihren jüngsten Beutezug feiern.
 Wenn du deinen Sieg nicht bekannt machst, wer will dann schon mit dir zechen?
 
-==== Besorgungen machen
+*Besorgungen machen*
 
 '''
 *Wenn du Geld gegen Ware tauschen willst* und die Ware in der Siedlung, in der du dich aufhältst, problemlos aufzutreiben ist, kannst du die Ware zum Listenpreis kaufen.
@@ -823,7 +823,7 @@ Der SL wird dir deine Optionen aufzählen.
 
 '''
 
-==== Zu Kräften kommen
+*Zu Kräften kommen*
 
 '''
 *Wenn du in Ruhe und Sicherheit bist und nichts tust, außer dich zu erholen,* erhältst du nach einem vollen Ruhetag deine gesamten TP wieder.
@@ -832,7 +832,7 @@ Wenn du unter der Pflege eines Heilers stehst – magisch oder profan –, darfs
 
 '''
 
-==== Anwerben
+*Anwerben*
 
 '''
 *Wenn du verbreitest, dass du nach bezahlter Hilfe suchst,* würfle…
@@ -851,7 +851,7 @@ Wenn du ihn abweist, erhältst du -1 voraus auf _Anwerben_.
 
 '''
 
-==== Steckbrief
+*Steckbrief*
 
 '''
 *Wenn du in einen Hort der Zivilisation zurückkehrst, in dem du Ärger verursacht hast,* würfle+CHA.
@@ -870,7 +870,7 @@ Er wird auch dann ausgelöst, wenn du öffentlich sichtbar in die Schwierigkeite
 Als "Zivilisation" gelten die Dörfer und Städte von Menschen, Elfen, Zwergen und Halblingen; der Begriff kann aber zum Beispiel auch auf jede vergleichsweise rechtschaffene Niederlassung von Monsterrassen wie Orks oder Goblins zutreffen.
 Solange deine Gruppe sich an einem Ort niedergelassen und dort am Gemeindeleben teilgenommen hat, zählt der Ort im Rahmen dieses Zuges als Zivilisation.
 
-==== Wappnen
+*Wappnen*
 
 '''
 *Wenn du deine Zeit mit dem Studium deiner Schriften, der Meditation oder hartem Training verbringst,* erhältst du Vorbereitung.

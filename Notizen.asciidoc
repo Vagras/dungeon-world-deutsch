@@ -1,6 +1,6 @@
-= Übersetzungen
+== Übersetzungen
 
-== Konzepte
+=== Konzepte
 
 Move: Zug, Aktion. Aber: beide klingen wie etwas, was man bewusst macht, bzw. auf das man es bewusst anlegt. Dabei sollen die Moves doch aus der Fiktion getriggert werden. Aber hat "Move" im Englischen nicht eigentlich die gleiche Konnotation?
 
@@ -33,6 +33,6 @@ Bond: Bande (Mehrzahl von Band), wie in "Bande knüpfen". Klingt ein bisschen al
 * Outstanding Warrant: Ausstehender Haftbefehl, ausstehender Steckbrief (aber: "warrant" im Englischen ist vielseitiger und scheint sich auf Sachen beziehen zu können, die nicht unbedingt mit dem Gesetz im Einklang sind – Kopfgelder zum Beispiel)
 * Bolster: Sich wappnen, sich vorbereiten, seine Hausaufgaben machen
 
-=== SL-Moves
+=== SL-Züge
 
 * Reveal an unwelcome Truth: Eine unangenehme Wahrheit enthüllen

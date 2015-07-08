@@ -1,0 +1,174 @@
+== Helfen
+
+Zunächst einmal vielen herzlichen Dank für deine Hilfe!
+Um "Kleinarbeit" für alle Beteiligten zu vermeiden, beachte bitte ein paar Punkte, wenn du bei der Übersetzung helfen willst.
+
+=== Übersetzungen für häufige Begriffe
+
+Manche Begriffe tauchen immer wieder auf.
+Für die häufigsten von ihnen sind hier die Übersetzungen.
+
+.Begriffe mit Übersetzungen
+|===
+|Begriff | Übersetzung
+
+|Ability
+|Attribut
+
+|Alignment
+|Gesinnung
+
+|b[2d6]
+|b[2W6]
+
+|Bond
+|Bande (Mehrzahl von _Band_)
+
+|chaotic (alignment)
+|chaotisch (Gesinnung)
+
+|confused (debility)
+|verwirrt (Beeinträchtigung)
+
+|Debility
+|Beeinträchtigung
+
+|evil (alignment)
+|böse (Gesinnung)
+
+|Experience (XP)
+|Erfahrung (EP)
+
+|+1 forward
+|+1 voraus
+
+|gear
+|Ausrüstung
+
+|good (alignment)
+|gut (Gesinnung)
+
+|Hireling
+|Mietling
+
+|Hitpoints (HP)
+|Trefferpunkte (TP)
+
+|1 hold
+|1 Reserve
+
+|lawful (alignment)
+|rechtschaffen (Gesinnung)
+
+|Level (character)
+|Stufe
+
+|Modifier
+|Modifikator (oder, je nach Kontext, Bonus oder Malus)
+
+|Move
+|Zug
+
+|neutral (alignment)
+|neutral (Gesinnung)
+
+|+1 ongoing
+|+1 fortlaufend
+
+|scarred (debility)
+|entstellt (Beeinträchtigung)
+
+|shaky (debility)
+|wackelig (Beeinträchtigung)
+
+|sick (debility)
+|übel (wie in "mir ist übel", als Beeinträchtigung)
+
+|skill
+|Fähigkeit
+
+|stats
+|Attribute
+
+|stunned (debility)
+|benommen (Beeinträchtigung)
+
+|w[2d6]
+|s[2W6]
+
+|weak (debility)
+|schwach (als Beeinträchtigung)
+|===
+
+.Attribute
+|===
+|Begriff (Modifikator) |Übersetzung (Übersetzung des Modifikators)
+
+|Strength (Str)
+|Stärke (Stä)
+
+|Constitution (Con)
+|Konstitution (Kon)
+
+|Dexterity (Dex)
+|Geschicklichkeit (Ges)
+
+|Intelligence (Int)
+|Intelligenz (Int)
+
+|Wisdom (Wis)
+|Weisheit (Wei)
+
+|Charisma (Cha)
+|Charisma (Cha)
+|===
+
+=== Stilfragen
+
+==== Fließtext
+
+Bitte fange für jeden Satz eine neue Zeile an.
+Dies dient dazu, die Erkennung von geänderten Satzteilen in Diffs zu erleichtern.
+
+==== Überschriften
+
+Überschriften sollten mit Ebene 2 anfangen (`==`); Ebene 1 ist in Asciidoc dem Dokumenttitel vorbehalten.
+Das "Überspringen" von Überschriftenebenen (z.B. `====` direkt nach `==`) ist in Asciidoc ebenfalls nicht erlaubt.
+Ansonsten gehe einfach so vor wie im http://book.dwgazetteer.com[Quelldokument] angegeben – wenn dort Überschriften übersprungen werden, mach einfach, wie du es für richtig hältst.
+
+==== Züge
+
+Wenn du den Namen eines Zuges im Fließtext nennen willst, benutze `_Unterstriche um den Movenamen_`, damit der Zug kursiv geschrieben und als Eigenname erkannt wird.
+
+Moves/Züge werden folgendermaßen gebaut:
+
+----
+*Flimmen und Flommen*
+
+'''
+*Wenn du XXX YYY,* würfle+BLA.
+✴ Bei einer 10+, flimme dies.
+✴ Bei einer 7–9, flomme das.
+
+'''
+----
+
+Daraus wird dann:
+
+*Flimmen und Flommen*
+
+'''
+*Wenn du XXX YYY,* würfle+BLA.
+✴ Bei einer 10+, flimme dies.
+✴ Bei einer 7–9, flomme das.
+
+'''
+
+Beachte dabei folgende Teile:
+
+* Der Move-Name sollte fett sein.
+Eine Überschrift hat sich an der Stelle nicht bewährt.
+* Die Bedingung, unter der der Move ausgelöst wird, sollte ebenfalls fett sein, damit sie auf den ersten Blick ersichtlich ist.
+* Die Sterne vor den einzelnen Punkten sind keine echten Aufzählungszeichen (`*` am Zeilenanfang werden in Asciidoc als Aufzählungen gerendert), sondern achtarmige Sterne (Unicode: http://unicode-table.com/de/2734[_eight pointed black star_]).
+Das sind dieselben Zeichen, die auch im Originaltext verwendet werden.
+* Vor den horizontalen Linien (`'''`) bitte eine Leerzeile lassen, weil die Linien sonst nicht gerendert werden.

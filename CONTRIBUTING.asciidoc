@@ -141,6 +141,9 @@ Für die häufigsten von ihnen sind hier die Übersetzungen.
 Bitte fange für jeden Satz eine neue Zeile an.
 Dies dient dazu, die Erkennung von geänderten Satzteilen in Diffs zu erleichtern.
 
+Wenn du Eigennamen von Regelkonstrukten (in erster Linie die Namen von Zügen oder Beeinträchtigungen) im Fließtext benutzt, umgebe sie bitte `_mit Unterstrichen_`, damit sie kursiv gerendert werden und als dedizierte Regeln wahrgenommen werden.
+Ein paar Beispiele dafür kannst du in den https://github.com/runiq/dungeon-world-deutsch/blob/master/ch4.asciidoc#grundlegende-züge-1[Erläuterungen zu _Hauen und Stechen_] finden.
+
 ==== Überschriften
 
 Überschriften sollten mit Ebene 2 anfangen (`==`); Ebene 1 ist in Asciidoc dem Dokumenttitel vorbehalten.
@@ -148,8 +151,6 @@ Das "Überspringen" von Überschriftenebenen (z.B. `====` direkt nach `==`) ist 
 Ansonsten gehe einfach so vor wie im http://book.dwgazetteer.com[Quelldokument] angegeben – wenn dort Überschriften übersprungen werden, mach einfach, wie du es für richtig hältst.
 
 ==== Züge
-
-Wenn du den Namen eines Zuges im Fließtext nennen willst, benutze `_Unterstriche um den Zugnamen_`, damit der Zug kursiv geschrieben und als Eigenname erkannt wird.
 
 Die Beschreibungen von Zügen werden folgendermaßen gebaut:
 

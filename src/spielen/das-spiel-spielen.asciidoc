@@ -32,3 +32,58 @@ Jedes Attribut hat außerdem einen _Modifikator_, der benutzt wird, wenn gegen d
 Sie werden als _STR_, _KON_, _GES_, _INT_, _WEI_ und _CHA_ abgekürzt.
 Modifikatoren reichen von -3 bis +3.
 Ein Modifikator wird immer von dem Attributwert abgeleitet, den du im Moment innehast.
+
+=== Züge machen
+
+Die fundamentale Regeleinheit in _Dungeon World_ ist der _Zug_.
+Ein Zug sieht so aus:
+
+'''
+*Wenn du einen Gegner im Nahkampf angreifst,* würfle+STÄ.
+✴ Bei einer 10+ fügst du ihm Schaden zu und entrinnst seinem Angriff.
+Wenn du willst, kannst du außerdem +1W6 Schaden machen, setzt dich dabei aber dem Angriff deines Gegners aus.
+✴ Bei einer 7–9 fügst du deinem Gegner Schaden zu und er kann einen Angriff gegen dich ausführen.
+
+'''
+
+Züge sind Regeln, die dir sagen, wenn sie ausgelöst werden und welche Auswirkungen sie haben.
+Ein Zug hängt von einer fiktionalen Handlung ab und hat immer einen fiktionalen Effekt.
+"Fiktional" bedeutet hier, dass sowohl die auslösende Handlung als auch der Effekt aus der Welt der Charaktere stammen, die wir beschreiben.
+Der obige Zug wird ausgelöst, "wenn du einen Gegner im Nahkampf angreifst".
+Der Effekt ist das, was dein Angriff zur Folge hat:
+Einen Würfelwurf und unterschiedliche Situationen, die sich aus diesem Wurf ergeben können, je nachdem, wie die Würfel gefallen sind.
+
+Wenn ein Spieler beschreibt, was sein Charakter tut und damit einen Zug auslöst, dann geschieht dieser Zug und seine Regeln kommen zur Anwendung.
+Wenn der Zug einen Würfelwurf erfordert, wird dir seine Beschreibung erklären, was du würfeln musst und was das Ergebnis bedeutet.
+
+Ein Charakter kann die fiktionale Handlung, die Auslöser für einen Zug ist, nicht unternehmen, ohne diesen Zug auszulösen.
+Wenn Isaac dem SL sagt, dass sein Charakter an einem durchgedrehten, axtschwingenden Ork vorbeischlüpft und durch die offene Tür flieht, dann macht er den _Gefahr trotzen_-Zug – denn dessen Auslöser ist "wenn du trotz einer unmittelbaren Gefahr handelst".
+Isaac kann nicht einfach beschreiben, wie sein Charakter an dem Ork vorbeiläuft, ohne den _Gefahr trotzen_-Zug zu machen.
+Genauso kann den _Gefahr trotzen_-Zug nicht machen, wenn er nicht "trotz einer unmittelbaren Gefahr handelt" oder "ein drohendes Unheil hinnehmen muss".
+Der Zug und die Fiktion gehen Hand in Hand.
+
+Jeder am Tisch sollte darauf achten, ob Züge ausgelöst werden.
+Wenn es jemals unklar sein sollte, ob ein Zug ausgelöst wird oder nicht, solltet ihr zusammenarbeiten und Klarheit darüber schaffen, was gerade passiert.
+Fragt jeden Beteiligten, bis ihr alle auf der gleichen Wellenlänge seid und die Situation mit gleichen Augen seht.
+Dann würfelt – oder auch nicht, je nachdem, was die Situation erfordert.
+
+==== Züge und Würfel
+
+Die meisten Züge beinhalten den Ausdruck "würfle+X", wobei _X_ einer der Attributmodifikatoren deines Charakters ist.
+Solange der Zug nichts anderes vorgibt, bedeutet "würfle" immer, dass du zwei sechsseitige Würfel wirfst, das Ergebnis zusammenzählst und den Wert des angegebenen Modifikators addierst.
+Bei manchen Zügen addierst du keinen Modifikator, sondern einen anderen Wert:
+
+____
+Ich mache einen Zug, bei dem ich +STR würfeln muss.
+Mein STR-Modifikator ist +1.
+Ich würfle zwei sechsseitige Würfel und bekomme eine Eins und eine Vier.
+Das Endergebnis ist sechs.
+____
+
+Die Ergebnisse fallen immer unter eine von drei grundlegenden Kategorien.
+Eine Augenzahl von 10 oder größer (geschrieben als 10+) ist das beste Resultat.
+Eine Zahl zwischen 7 und 9 ist immer noch ein Erfolg, kommt allerdings mit Komplikationen oder kostet dich etwas.
+Eine 6 oder niedriger bedeutet Ärger, aber du darfst dir dafür auch einen Erfahrungspunkt gutschreiben.
+
+Schadenswürfe funktionieren ein wenig anders.
+Sie benutzen unterschiedliche Würfel, je nachdem, wer oder was den Schaden anrichtet.

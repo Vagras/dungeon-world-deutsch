@@ -1,5 +1,5 @@
 # Kapitel in den einzelnen Abschnitten
-CH_SPIELEN := züge
+CH_SPIELEN := züge das-spiel-spielen
 CH_KLASSEN := barde kleriker
 CH_SPIELLEITEN :=
 CH_MONSTER :=

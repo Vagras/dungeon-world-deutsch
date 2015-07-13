@@ -7,7 +7,7 @@ Um "Kleinarbeit" für alle Beteiligten zu vermeiden, beachte bitte ein paar Punk
 
 Wenn du ein Kapitel übersetzen willst, benutze bitte folgendes Schema für den Dateinamen: `<abschnitt>/<kapitel>.asciidoc`.
 `<abschnitt>` ist hierbei der übersetzte Name des Menüpunkts, wie du ihn oben auf den Seiten des http://book.dwgazetteer.com[Gazetteers] finden kannst, also `spielen`, `klassen`, `spielleiten`, `monster` oder `anhänge`.
-Bitte achte darauf, dass alle Dateinamen klein geschrieben sind und keine Leerzeichen enthalten – ersetze Leerzeichen durch Bindestriche.
+Bitte achte darauf, dass alle Dateinamen klein geschrieben sind und keine Leerzeichen oder Umlaute enthalten – ersetze Leerzeichen durch Bindestriche, Umlaute durch ihre Umschriften (z.B. `züge.asciidoc` → `zuege.asciidoc`).
 
 ====
 Das Kapitel "Der Barde" aus dem Abschnitt "Klassen" sollte zum Beispiel in die Datei `klassen/barde.asciidoc`, von mir aus auch `klassen/der-barde.asciidoc`.

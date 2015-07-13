@@ -1,4 +1,4 @@
 = Dungeon World
 
 include::spielen/das-spiel-spielen.asciidoc[]
-include::spielen/züge.asciidoc[]
+include::spielen/zuege.asciidoc[]

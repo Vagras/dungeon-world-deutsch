@@ -1,0 +1,34 @@
+== Das Spiel spielen
+
+_Dungeon World_ zu spielen heißt, sich zu unterhalten; jemand sagt etwas, du antwortest, vielleicht schaltet sich noch jemand ein.
+Wir unterhalten uns über die Fiktion – die Welt eurer Charaktere und die Dinge, die um sie herum geschehen.
+Im Laufe des Spiels werden sich auch die Regeln einschalten.
+Sie haben ebenfalls etwas über die Welt zu sagen.
+In _Dungeon World_ gibt es keine Runden oder Initiative, keine Regeln, die festlegen, wer wann an der Reihe ist.
+Stattdessen nehmen die Spieler einfach teil an der Unterhaltung, die von Natur aus ein gewisses Hin und Her beinhaltet.
+Der SL sagt etwas, auf das die Spieler eingehen.
+Die Spieler stellen Fragen oder beschreiben, was sie tun, und der SL erzählt, was daraufhin passiert.
+_Dungeon World_ ist niemals ein Monolog, immer eine Unterhaltung.
+
+Die Regeln helfen, die Unterhaltung im Sinne des Spiels auszugestalten.
+Wenn der SL und die Spieler sich unterhalten, reden die Regeln und die Fiktion mit.
+Jede Regel hat einen ausdrücklich beschriebenen, fiktionalen Auslöser, über den sie dir mitteilt, wenn sie zur Anwendung kommt.
+
+Wie in jedem guten Gespräch ist die Zeit, in der du zuhörst, genauso wichtig wie die, die du mit Reden verbringst – denn die Details, die von den anderen Leuten am Tisch etabliert wurden, sind entscheidend für dich.
+Sie können maßgebend dafür sein, welche Züge du machen kannst, dir neue Möglichkeiten eröffnen, oder dich vor eine Herausforderung stellen, der du ins Auge blicken musst.
+Die Unterhaltung funktioniert am besten, wenn wir alle zuhören, Fragen stellen und auf den Beiträgen der anderen aufbauen.
+
+Dieses Kapitel dreht sich darum, wie _Dungeon World_ gespielt wird.
+Du findest hier Informationen über die Regeln, wie sie sich aus dem Spiel ergeben und wiederum dazu beitragen.
+Wir werden sowohl die allgemeinen Regeln behandeln (zum Beispiel, wie man Züge macht) als auch speziellere, die nur in bestimmten Situationen zur Anwendung kommen (wie man mit Schaden und Trefferpunkten umgeht).
+
+=== Attribute und Modifikatoren
+
+Viele der in diesem Kapitel besprochenen Regeln erwähnen die _Attribute_ eines Charakters und ihre _Modifikatoren_.
+Die Attribute sind _Stärke_, _Konstitution_, _Geschicklichkeit_, _Intelligenz_, _Weisheit_ und _Charisma_.
+Sie beschreiben ganz allgemein die Befähigung eines Charakters auf ihrem Gebiet, auf einer Skala von 3 bis 18, wobei 18 das absolute Höchstmaß dessen darstellt, was ein Sterblicher auf diesem Gebiet leisten kann.
+
+Jedes Attribut hat außerdem einen _Modifikator_, der benutzt wird, wenn gegen dieses Attribut gewürfelt wird.
+Sie werden als _STR_, _KON_, _GES_, _INT_, _WEI_ und _CHA_ abgekürzt.
+Modifikatoren reichen von -3 bis +3.
+Ein Modifikator wird immer von dem Attributwert abgeleitet, den du im Moment innehast.

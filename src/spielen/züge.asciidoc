@@ -422,7 +422,7 @@ ____
 ✴ Bei einer 10+ darfst du dem SL drei Fragen von der Liste unten stellen.
 ✴ Bei einer 7–9 darfst du nur eine stellen.
 
-Wenn du den Antworten entsprechend handelst, bekommst du +1 voraus.
+Wenn du den Antworten entsprechend handelst, nimm +1 voraus.
 
 * Was ist hier vor Kurzem geschehen?
 * Was wird als Nächstes geschehen?
@@ -684,7 +684,7 @@ ____
 Wenn du…
 
 * maximal deine Traglast mit dir trägst, erhältst du keinen Malus.
-* bis zu deiner Traglast+2 mit dir trägst, erhältst du -1 fortlaufend, bis du dich von deiner Last befreist.
+* bis zu deiner Traglast+2 mit dir trägst, nimm -1 fortlaufend, bis du dich von deiner Last befreist.
 * mehr als deine Traglast+2 mit dir trägst, hast du die Wahl: Lasse etwas mit einem Gewicht von 1 oder mehr fallen oder dein Wurf schlägt automatisch fehl.
 
 '''
@@ -718,7 +718,7 @@ Du heilst ganz normal Trefferpunkte, aber Rationen verbrauchst du nur dann, wenn
 '''
 *Wenn du Wachdienst hast und sich etwas deinem Lager nähert,* würfle+WEI.
 ✴ Bei einer 10+ gelingt es dir, deine Gefährten zu wecken und bereitzumachen:
-Jeder im Lager erhält +1 voraus.
+Jeder im Lager nimmt +1 voraus.
 ✴ Bei einer 7–9 hast du einen Moment zu spät reagiert:
 Deine Gefährten sind wach, aber sie hatten keine Zeit, sich vorzubereiten.
 Sie haben nichts außer ihrer Waffen und Rüstungen.
@@ -847,7 +847,7 @@ Du bekommst keine Strafen für Leute, die du abweist.
 ✴ Bei einer 7–9 wirst du dich mit Leuten begnügen müssen, die deinen Anforderungen nur teilweise entsprechen.
 ✴ Bei einer 6- wird jemand ungeeignetes, aber einflussreiches verkünden, dass er sich dir anschließen will (ein tollkühner Halbstarker, ein Wolf im Schafspelz, ein Feind im Verborgenen oder ähnliches).
 Nimm ihn und lebe mit den Konsequenzen oder weise ihn ab.
-Wenn du ihn abweist, erhältst du -1 voraus auf _Anwerben_.
+Wenn du ihn abweist, nimm -1 voraus auf _Anwerben_.
 
 '''
 

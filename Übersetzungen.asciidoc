@@ -26,8 +26,8 @@ Für die häufigsten von ihnen sind hier die Übersetzungen.
 |Experience (XP)
 |Erfahrung (EP)
 
-|+1 forward
-|+1 voraus
+|take +1 forward
+|nimm +1 voraus
 
 |gear
 |Ausrüstung
@@ -50,8 +50,8 @@ Für die häufigsten von ihnen sind hier die Übersetzungen.
 |Move
 |Zug
 
-|+1 ongoing
-|+1 fortlaufend
+|take +1 ongoing
+|nimm +1 fortlaufend
 
 |skill
 |Fähigkeit

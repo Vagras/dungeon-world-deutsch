@@ -27,7 +27,7 @@ Ein paar Beispiele dafür kannst du in den https://github.com/runiq/dungeon-worl
 Das "Überspringen" von Überschriftenebenen (z.B. `====` direkt nach `==`) ist in Asciidoc ebenfalls nicht erlaubt.
 Ansonsten gehe einfach so vor wie im http://book.dwgazetteer.com[Quelldokument] angegeben – wenn dort Überschriften übersprungen werden, mach einfach, wie du es für richtig hältst.
 
-=== Züge
+=== Züge (Moves)
 
 Die Beschreibungen von Zügen werden folgendermaßen gebaut:
 

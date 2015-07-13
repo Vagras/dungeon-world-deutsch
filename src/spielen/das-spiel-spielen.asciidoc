@@ -156,3 +156,97 @@ Du solltest dabei nur die schon etablierten Fakten im Hinterkopf behalten und ve
 
 …sagen "schreibe dir EP gut".
 Das bedeutest, dass du einen Punkt zu deiner Gesamterfahrung hinzufügen darfst.
+
+=== Verletzungen und Heilung
+
+Schnitte, Prellungen und tödliche Wunden sind die üblichen Gefahren, mit denen Abenteurer sich in _Dungeon World_ herumschlagen müssen.
+Im Laufe des Spiels werden Charaktere Schaden erleiden, wieder gesund werden und vielleicht sogar sterben.
+Die Fähigkeit eines Charakters, auf den Beinen zu bleiben, wird in Trefferpunkten (TP) gemessen.
+Schaden wird von den TP abgezogen.
+Unter den richtigen Bedingungen – oder mit magischer oder profaner Hilfe – wird Schaden geheilt und TP werden wiederhergestellt.
+
+==== Trefferpunkte (TP)
+
+Die TP eines Charakters sind ein Maß für Durchhaltevermögen, Ausdauer und Gesundheit eines Charakters.
+Ein Charakter mit mehr TP kann länger kämpfen und mehr Verletzungen hinnehmen, bevor der kalte Hauch des Todes ihn erwischt.
+
+Deine Klasse bestimmt deine maximalen TP.
+Deine Konstitution (das Attribut, nicht der Modifikator) kommt ebenfalls zum Tragen – eine höhere Konstitution bedeutet also mehr TP.
+Falls sich deine Konstitution im Laufe des Spiels nachhaltig ändert, passt du deine TP ebenfalls dem veränderten Wert an.
+Solange deine Konstitution sich nicht ändert, bleiben deine maximalen TP immer gleich.
+
+==== Schaden
+
+Wenn ein Charakter Schaden nimmt, zieht er ihn von seinen momentanen TP ab.
+Rüstung vermindert den angerichteten Schaden; wenn ein Charakter eine Rüstung hat, zieht er ihren Rüstungswert vom Schaden ab.
+Dies kann dazu führen, dass ein Hieb gar keinen Schaden mehr anrichtet – das ist in Ordnung, dazu ist eine Rüstung schließlich da!
+Schaden kann einen Charakter niemals unter 0 TP bringen.
+
+Die Höhe des Schadens hängt vom Angreifer ab.
+Spielercharaktere machen Schaden entsprechend ihrer Klasse, der verwendeten Waffe und des Zuges, den sie ausführen.
+
+Wenn es in einem Zug einfach "mache Schaden" heißt, würfelst du den Schadenswürfel deiner Klasse und rechnest eventuelle Boni/Mali von Zügen, Waffen oder anderen Effekten darauf an.
+Wenn ein Zug einen bestimmten Schadenswert vorgibt, nimm diesen, anstatt den Schaden auszuwürfeln.
+
+Andere Schadensquellen – Trümmer eines einstürzenden Turmes oder der Sturz in eine Fallgrube – sind dem SL überlassen, basierend auf den folgenden Richtlinien:
+
+* wenn Prellungen und Schürfwunden drohen: 1W4 Schaden
+* wenn es bluten könnte, aber nichts Schlimmeres passiert: 1W6 Schaden
+* wenn es Knochenbrücke zur Folge haben könnte: 1W8 Schaden
+* wenn es tödlich für normale Leute ist: 1W10 Schaden
+
+Wenn der Schaden außergewöhnlich groß ist oder von Magie oder Gift herrührt, kannst du die _[ignoriert Rüstung]_-Marke hinzufügen.
+
+Vorübergehende oder von besonderen Umständen verliehene Rüstung wirkt genauso wie Rüstung, die du dir anziehen kannst: 1 Punkt für wenig, 2 Punkte für viel Deckung.
+
+Schaden wird immer ausgehend von der Fiktion angerichtet.
+Ein Zug, der Schaden anrichtet, ist nur ein Spezialfall dieser Regel:
+Der Zug legt fest, dass Schaden in der Fiktion ausgeteilt wird.
+Schaden kann demnach auch dann angerichtet werden kann, wenn kein Zug gemacht wurde, sofern es sich aus der Fiktion ergibt.
+
+Ein TP-Verlust ist häufig nur eine Seite einer Verletzung.
+Wenn die Verletzung den gesamten Körper betrifft, beispielsweise bei einem Sturz in eine Fallgrube, dann passiert wahrscheinlich abgesehen vom TP-Verlust nichts.
+Wenn aber eine bestimmte Stelle betroffen ist – etwa, wenn ein Ork deinen Arm aus dem Gelenk zerren will –, dann sollte der Verlust von TP auf jeden Fall eine Folge sein, aber nicht die einzige.
+Die wichtigere Frage ist, wie du mit dem ruinierten Arm umgehst:
+Wie willst du jetzt ein Schwert schwingen oder Zauber wirken?
+Eine vergleichbare Situation liegt vor, wenn du enthauptet werden würdest:
+Du würdest keinen TP-Verlust erleiden, sondern einfach sterben.
+
+===== Schaden von mehreren Gegnern
+
+Nur die mutigsten Monster wagen sich allein in den Kampf.
+Die meisten kämpfen lieber mit jemandem an ihrer Seite, und vielleicht noch mit einem Schützen, der ihnen den Rücken freihält, und so weiter.
+Dies kann dazu führen, dass mehrere Monster auf einmal Schaden austeilen.
+
+Wenn mehrere Gegner gleichzeitig angreifen, würfe den höchsten Schaden unter ihnen und addiere +1 für jedes weitere Monster, das am Angriff beteiligt ist.
+
+____
+Ein Goblin-Orkaster (1W10+1 Schaden _[ignoriert Rüstung]_) und drei Goblins (1W6 Schaden) werfen ihre Waffen – eine magische Säurekugel vom Orkaster, Speere von allen anderen – auf Lux, als diese ihre Barrikade angreift.
+Ich würfle den höchsten Schadenswurf, 1W10+1 _[ignoriert Rüstung]_, und addiere +3 für die drei anderen Goblins.
+Ich zähle alles zusammen und sage Lux, dass sie 9 Schaden hinnehmen muss, der an ihrer Rüstung vorbeigeht, da die Säure in die Ritzen und Schnitte dringt, die die Speere in ihr hinterlassen haben.
+____
+
+===== Betäubungsschaden
+
+Betäubungsschaden ist nichttödlicher Schaden,
+Ein Charakter, der Betäubungsschaden hinnehmen muss, _trotzt_ bei allem, was er unternimmt, _Gefahr_; die Gefahr ist dabei, dass er zu benommen ist, um die Handlung zu vollführen.
+Dies dauert so lange an, wie es in der Fiktion Sinn macht: du bist benommen, bis es dir gelingt, wieder einen klaren Kopf zu bekommen oder die Ursache deiner Betäubung zu beseitigen.
+Ein NPC, der Betäubungsschaden erleidet, zählt diesen nicht gegen seine TP, aber er wird sich entsprechend verhalten – ziellos umhertorkeln für ein paar Sekunden, blind herumfummeln, und so weiter.
+
+===== Zusätzlicher und verminderter Schaden
+
+Wenn ein Zug sagt, dass du zusätzlichen Schaden austeilst, dann fügst du diesen Schaden zum Ergebnis deines Schadenswurfs hinzu.
+Wenn du statt einer festen Zahl einen Würfel hinzufügen sollst – zum Beispiel "+1W4 Schaden" –, dann würfelst du diesen Würfel und addierst sein Ergebnis zu deinem Schadenswurf.
+
+Das gleiche gilt bei vermindertem Schaden: Du ziehst den Betrag von deinem erwürfelten Schaden ab,
+Wenn du einen Würfel abziehen sollst – beispielsweise "-1W6 Schaden" –, dann ziehst du das Ergebnis dieses Würfelwurfs von deinem Schaden ab.
+Schaden kann nie negativ sein; 0 Schaden ist das Minimum.
+
+===== Bester und schlechtester Wurf
+
+Einige Monster und Züge verlangen von dir, mehrmals Schaden zu würfeln und entweder das beste oder das schlechteste Ergebnis zu behalten.
+Würfle in diesem Fall wie angegeben, aber zähle nur den Wurf, der am besten (oder schlechtesten) war.
+
+Wenn ein Monster seinen 1W6-Schadenswurf zweimal macht und den besseren Wurf behält, wird das als b[2W6] geschrieben.
+Das _b[]_ heißt "beste".
+Gleichsam heißt _s[]_ "schlechteste", also bedeutet s[3W10], dass du dreimal einen W10 würfeln und das schlechteste Ergebnis als Schaden nehmen sollst.

@@ -59,6 +59,9 @@ Für die häufigsten von ihnen sind hier die Übersetzungen.
 |stats
 |Attribute
 
+|tag
+|Marke
+
 |w[2d6]
 |s[2W6]
 |===

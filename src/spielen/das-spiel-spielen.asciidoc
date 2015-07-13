@@ -87,3 +87,72 @@ Eine 6 oder niedriger bedeutet Ärger, aber du darfst dir dafür auch einen Erfa
 
 Schadenswürfe funktionieren ein wenig anders.
 Sie benutzen unterschiedliche Würfel, je nachdem, wer oder was den Schaden anrichtet.
+
+==== Züge und Ausrüstung
+
+Die wichtigste Rolle, die der Ausrüstung deines Charakters zukommt, ist die Unterstützung bei der Beschreibung der Züge, die er macht.
+Ein Charakter ohne Waffe wird im Kampf gegen einen Drachen kein _Hauen und Stechen_ auslösen, da ein beherzter Faustschlag herzlich wenig gegen zentimeterdicke Schuppen ausrichtet.
+Der Angriff zählt daher nicht als Auslöser für den Zug.
+
+Deine Ausrüstung kann das Auslösen eines Zuges aber auch verhindern.
+Das Erklimmen eines vereisten Felsvorsprungs bedeutet normalerweise _Gefahr trotzen_, aber ein Satz anständiger Kletterausrüstung könnte es dir erlauben, die "unmittelbare Gefahr" zu reduzieren oder das "drohende Unheil" abzuwenden, so dass du den Zug nicht auslöst.
+
+Von allen Gegenständen haben Waffen am häufigsten Einfluss darauf, welche Züge du auslösen kannst.
+Ein Charakter mit einem Dolch kann problemlos versuchen, den Goblin zu erstechen, der sich in sein Bein verbissen hat, und dabei _Hauen und Stechen_ auslösen.
+Jemand mit einer Hellebarde wird hingegen große Probleme haben, diese gegen einen so nahen Feind in Stellung zu bringen.
+
+Gegenstände und Ausrüstung jeder Art können mit _Marken_ versehen sein.
+Marken sind Schlagworte, die benutzt werden, um Dinge zu beschreiben.
+Manche verändern bestimmte Regeln (z.B. verminderter Schaden auf Rüstung, magische Boni/Mali auf einen Zug oder ein Attribut in bestimmten Situationen)
+Andere Marken haben Auswirkungen auf die Fiktion (wie die _[nah]_-Marke, die angibt, wie weit ein Gegner entfernt sein muss, damit du ihn mit dieser Waffe angreifen kannst).
+Marken helfen dir, die Handlungen deines Charakters zu beschreiben, wenn er einen Gegenstand nutzt.
+Sie geben dem SL außerdem Informationen darüber, was bei der Benutzung eines Gegenstands schiefgehen kann, oder was für Konsequenzen ein fehlgeschlagener Wurf haben könnte.
+
+==== Züge und ihre Auswirkungen
+
+Die Folgen eines Zuges kommen immer in der ausgedachten Welt zum Tragen, in der die Charaktere leben.
+Eine 10+ auf _Hauen und Stechen_ bewirkt nicht nur den mechanischen Effekt, sie heißt, dass du jemanden erfolgreich angegriffen und ihm Leid zugefügt hast.
+
+Sobald ihr euch über die Auswirkungen eines Zuges im Klaren seid, lasst sie im Rahmen eurer Geschichte zum Tragen kommen und wendet euch wieder eurer Unterhaltung zu.
+Nach einem Zug kommt ihr immer wieder auf das zurück, was im Spiel geschieht.
+
+Manche Züge haben unmittelbare mechanische Auswirkungen, wie das Verursachen von Schaden oder die Verleihung eines Bonus auf den nächsten Wurf.
+Diese Effekte spiegeln sich immer auch in der Welt der Charaktere wider;
+stell sicher, dass du sie in deine Beschreibung der Auswirkungen mit einbeziehst.
+
+===== Manche Züge…
+
+…sagen "mach deinen Schaden" oder "richte deinen Schaden an".
+"Schaden anrichten" heißt, dass du den Schadenswürfel deiner Klasse wirfst.
+Manchmal kann deine Waffe dir auch einen Bonus oder Malus auf den Schaden gewähren.
+Du benutzt deinen Schadenswürfel immer dann, wenn du einen Angriff durchführst, der deinem Ziel auch tatsächlich Schaden zufügen kann.
+Des bedeutet normalerweise, dass du eine Waffe führen musst – aber unter den richtigen Bedingungen oder mit dem richtigen Training können auch deine Fäuste zu Waffen werden.
+
+…sagen "nimm +1 voraus".
+Das bedeutet, dass du einen Bonus von +1 auf deinen nächsten Wurf für einen Zug bekommst (nicht auf einen Schadenswurf).
+Der Bonus kann größer ausfallen als +1, oder es kann sogar ein Malus wie -1 sein.
+Es kann auch eine Bedingung eingeschlossen sein, wie "Nimm +1 voraus auf _Hauen und Stechen_"; in diesem Fall bekommst du den Bonus nur auf deinen nächsten _Hauen und Stechen_-Wurf, nicht auf andere Züge.
+
+…sagen "nimm +1 fortlaufend".
+Das bedeutet, dass du +1 auf alle folgenden Würfe auf Züge erhältst (nicht auf Schadenswürfe).
+Der Bonus kann auch hier größer ausfallen als +1, oder es kann ein Malus wie -1 sein.
+Es kann auch eine Bedingung eingeschlossen sein, wie "Nimm +1 voraus auf _Salve_".
+Wenn du einen fortlaufenden Bonus bekommst, werden dir auch die Bedingungen genannt, unter denen du den Bonus verlierst, z.B. "bis du den Zauber auflöst" oder "bis du vor deinem Gott Buße getan hast".
+
+…geben dir "Reserve".
+Reserve ist eine Art Währung, die dir erlaubt, die Auswirkungen eines Zuges später zur Auswirkung zu bringen.
+Dazu musst du sie so ausgeben, wie der Zug es beschreibt.
+Reserve ist immer spezifisch für den Zug, der sie erzeugt hat - du kannst Reserve von _Verteidigen_ zum Beispiel nicht für _Fallenkunde_ ausgeben, oder andersrum.
+
+…stellen dich vor die Wahl.
+Deine Entscheidung wirkt sich – wie bei allen Zügen – sowohl auf die Fiktion als auch auf die spielmechanischen Folgen aus.
+Deine Entscheidung, bei einer 10+ auf deinem _Hauen und Stechen_-Wurf mehr Schaden anzurichten und dich im Gegenzug dem Angriff deines Gegners auszusetzen, ist genau das, was deinem Charakter passiert:
+Sein Vorteil im Gefecht ist groß genug, dass er nach seinem Angriff entweder sicher zurückweichen oder sein Glück herausfordern kann.
+
+…geben dir die Gelegenheit, etwas über deinen Charakter und seine Geschichte zu sagen.
+Wenn du _Weisheit kundtust_, kann der SL dich fragen, woher du die Informationen hast, die er in deinem Namen preisgibt.
+Nutze diese Gelegenheit, zur Ausgestaltung eurer Welt beizutragen, und zeig ihnen, wer dein Charakter wirklich ist.
+Du solltest dabei nur die schon etablierten Fakten im Hinterkopf behalten und versuchen, im Einklang mit der bis hierhin beschriebenen Geschichte zu bleiben.
+
+…sagen "schreibe dir EP gut".
+Das bedeutest, dass du einen Punkt zu deiner Gesamterfahrung hinzufügen darfst.

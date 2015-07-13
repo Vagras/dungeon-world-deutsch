@@ -61,3 +61,8 @@ Eine Überschrift hat sich an der Stelle nicht bewährt.
 * Die Sterne vor den einzelnen Punkten sind keine echten Aufzählungszeichen (`*` am Zeilenanfang werden in Asciidoc als Aufzählungen gerendert), sondern achtzackige Sterne (Unicode: http://unicode-table.com/de/2734[_eight pointed black star_]).
 Das sind dieselben Zeichen, die auch im Originaltext verwendet werden.
 * Vor den horizontalen Linien (`'''`) bitte eine Leerzeile lassen, weil die Linien sonst nicht gerendert werden.
+
+=== Marken (Tags)
+
+Schreibe Marken (Tags) wenn möglich _[kursiv und in eckige Klammern]_.
+Dies funktioniert, indem du Unterstriche um die eckigen Klammern hinzufügst: `\_[nah]_`

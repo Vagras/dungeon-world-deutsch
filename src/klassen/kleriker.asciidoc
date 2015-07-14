@@ -42,20 +42,22 @@ Wenn du dich Unterhältst, dann lernst du eine spezielle Art der Wörter des Ung
 ==== Mensch
 
 Dein Glaube ist vielfältig.
-Wähle einen Magier Zauber. Dieser Zauber gilt als wäre er ein Kleriker Zauber.
+Wähle einen Magier Zauber.
+Dieser Zauber gilt als wäre er ein Kleriker Zauber.
 Du beginnst mit folgenden Zügen:
 
 ==== Gottheit
 
 Du dienst und verehrst eine Gottheit oder Kraft, die dir deine Zauber Gewährt.
 Gebe deinen Gott einen Namen (vielleicht Helferth, Sucellus, Zorica oder Krugon der Trostlose) und wähle Seinen/Ihren Einflussbereich.
-. Heilung und Wiederherstellung
-Blutiger Eroberer 
-Zivilisation
-Wissen und Verborgenes
-Die Unterdrückten und Vergessenen
-Schatten der Wahrheit
+- Heilung und Wiederherstellung
+- Blutiger Eroberer 
+- Zivilisation
+- Wissen und Verborgenes
+- Die Unterdrückten und Vergessenen
+- Schatten der Wahrheit
 Wähle eine Lehre deiner Religion:
+
      Ihre Religion predigt die Heiligkeit des Leidens, erhalte das Gebet: Leiden
      Ihre Religion ist Okkult und Abgeschottet, erhalte das Gebet: gewinnen von Geheimnissen
      Ihre Religion hat wichtige Opferriten, erhalte das Gebet: Offenbarung 

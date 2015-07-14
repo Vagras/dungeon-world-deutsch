@@ -42,3 +42,36 @@ Wenn du dich Unterhältst, dann lernst du eine spezielle Art der Wörter des Ung
 ==== Mensch
 
 Dein Glaube ist vielfältig.
+Wähle einen Magier Zauber. Dieser Zauber gilt als wäre er ein Kleriker Zauber.
+Du beginnst mit folgenden Zügen:
+
+==== Gottheit
+
+Du dienst und verehrst eine Gottheit oder Kraft, die dir deine Zauber Gewährt.
+Gebe deinen Gott einen Namen (vielleicht Helferth, Sucellus, Zorica oder Krugon der Trostlose) und wähle Seinen/Ihren Einflussbereich.
+. Heilung und Wiederherstellung
+Blutiger Eroberer 
+Zivilisation
+Wissen und Verborgenes
+Die Unterdrückten und Vergessenen
+Schatten der Wahrheit
+Wähle eine Lehre deiner Religion:
+     Ihre Religion predigt die Heiligkeit des Leidens, erhalte das Gebet: Leiden
+     Ihre Religion ist Okkult und Abgeschottet, erhalte das Gebet: gewinnen von Geheimnissen
+     Ihre Religion hat wichtige Opferriten, erhalte das Gebet: Offenbarung 
+     Ihre Religion glaubt an den Gerichtskampf, erhalte das Gebet: Persönlicher Sieg
+
+==== Göttliche Führung
+
+Wenn du nach den Geboten deines Glaubens, zu deiner Gottheit bettest, wird dir nützliches Wissen gewährt oder ein Segen der mit den Einflussbereich deiner Gottheit verwandt ist.
+Der SL wird dir weiteres sagen.
+
+==== Untote
+
+Wenn du dein Heiliges Symbol hochhält  und deine Gottheit um Schutz anrufst, Würfle WEIS
+ 7+, solange du weiter bettest und dein heiliges Symbol schwingst, wird kein Untoter in deine Nähe kommen.
+10+, zusätzlich betäubst du Intelligente Untote und veranlasst Hirnlose Untote zum Fliehen. 
+Aggression unterbricht die Effekte und die Untoten können Normal agieren.
+Intelligente Untote können immer noch Wege finden dich aus der Ferne anzugreifen.
+Sie sind schlau genug dazu.
+
